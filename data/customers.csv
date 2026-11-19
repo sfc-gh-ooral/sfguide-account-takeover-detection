@@ -1,0 +1,1501 @@
+customer_id,customer_name,segment,home_city,home_country,confirmed_ato
+CU00001,Parker Thorne,Retail,Seattle,US,False
+CU00002,Blake Oakes,Retail,Dallas,US,False
+CU00003,Cameron Brook,Retail,Dallas,US,False
+CU00004,Cameron Penrose,Small Business,New York,US,False
+CU00005,Sage Garrow,Retail,Boston,US,False
+CU00006,Hayden Brook,Retail,Atlanta,US,False
+CU00007,Jordan Ellery,Small Business,New York,US,False
+CU00008,Blake Ingram,Retail,Atlanta,US,False
+CU00009,Jamie Quill,Retail,Miami,US,False
+CU00010,Cameron Hollis,Retail,Minneapolis,US,False
+CU00011,Dakota Fairbanks,Premier,Chicago,US,False
+CU00012,Hayden Stroud,Retail,New York,US,False
+CU00013,Cameron Fairbanks,Premier,Atlanta,US,False
+CU00014,Reese Penrose,Retail,Atlanta,US,False
+CU00015,Harper Calder,Premier,New York,US,False
+CU00016,Dakota Ellery,Retail,Boston,US,False
+CU00017,Cameron Northam,Small Business,Boston,US,False
+CU00018,Rowan Oakes,Premier,Phoenix,US,False
+CU00019,Hayden Juniper,Small Business,San Diego,US,False
+CU00020,Reese Thorne,Small Business,Denver,US,False
+CU00021,Harper Stroud,Small Business,Phoenix,US,False
+CU00022,Jordan Brook,Premier,Denver,US,False
+CU00023,Cameron Thorne,Retail,Dallas,US,False
+CU00024,Sage Oakes,Retail,Charlotte,US,False
+CU00025,Avery Ellery,Small Business,Boston,US,False
+CU00026,Avery Hollis,Retail,Phoenix,US,False
+CU00027,Blake Penrose,Small Business,Chicago,US,False
+CU00028,Finley Quill,Small Business,Phoenix,US,False
+CU00029,Dakota Brook,Retail,Atlanta,US,False
+CU00030,Harper Penrose,Premier,Chicago,US,False
+CU00031,Avery Penrose,Small Business,New York,US,False
+CU00032,Avery Northam,Retail,Atlanta,US,False
+CU00033,Skyler Brook,Small Business,New York,US,False
+CU00034,Hayden Linwood,Retail,New York,US,False
+CU00035,Emerson Kestrel,Premier,Minneapolis,US,False
+CU00036,Jamie Hollis,Small Business,Charlotte,US,False
+CU00037,Taylor Oakes,Retail,Phoenix,US,False
+CU00038,Quinn Redfern,Retail,Dallas,US,False
+CU00039,Jamie Penrose,Retail,Atlanta,US,False
+CU00040,Harper Juniper,Premier,Atlanta,US,False
+CU00041,Hayden Brook,Retail,Chicago,US,False
+CU00042,Quinn Stroud,Retail,Charlotte,US,False
+CU00043,Riley Juniper,Retail,Atlanta,US,False
+CU00044,Dakota Penrose,Small Business,Boston,US,False
+CU00045,Quinn Brook,Retail,Boston,US,False
+CU00046,Jamie Thorne,Premier,Phoenix,US,False
+CU00047,Jordan Redfern,Premier,Minneapolis,US,False
+CU00048,Quinn Alder,Small Business,Chicago,US,False
+CU00049,Dakota Marlow,Retail,Denver,US,False
+CU00050,Parker Thorne,Small Business,Minneapolis,US,False
+CU00051,Blake Stroud,Retail,Denver,US,True
+CU00052,Rowan Ellery,Premier,Seattle,US,False
+CU00053,Quinn Ellery,Retail,Charlotte,US,False
+CU00054,Sage Garrow,Retail,Phoenix,US,False
+CU00055,Parker Oakes,Small Business,Miami,US,False
+CU00056,Cameron Redfern,Retail,San Diego,US,False
+CU00057,Cameron Kestrel,Premier,Denver,US,False
+CU00058,Quinn Thorne,Retail,Miami,US,False
+CU00059,Blake Calder,Retail,Phoenix,US,False
+CU00060,Quinn Quill,Premier,Denver,US,False
+CU00061,Emerson Oakes,Premier,Charlotte,US,False
+CU00062,Dakota Kestrel,Retail,Boston,US,False
+CU00063,Sage Juniper,Retail,Miami,US,False
+CU00064,Taylor Stroud,Retail,Boston,US,False
+CU00065,Hayden Ellery,Retail,Minneapolis,US,False
+CU00066,Quinn Brook,Retail,Minneapolis,US,False
+CU00067,Harper Juniper,Retail,Charlotte,US,False
+CU00068,Rowan Calder,Premier,Boston,US,False
+CU00069,Jordan Dunmore,Premier,Seattle,US,False
+CU00070,Casey Ingram,Small Business,Seattle,US,False
+CU00071,Hayden Linwood,Premier,Atlanta,US,False
+CU00072,Skyler Linwood,Premier,Dallas,US,False
+CU00073,Morgan Calder,Retail,Seattle,US,True
+CU00074,Finley Dunmore,Premier,Chicago,US,False
+CU00075,Parker Ingram,Premier,Chicago,US,False
+CU00076,Jordan Marlow,Retail,Minneapolis,US,False
+CU00077,Taylor Calder,Retail,Charlotte,US,False
+CU00078,Riley Kestrel,Retail,Atlanta,US,False
+CU00079,Dakota Brook,Retail,San Diego,US,False
+CU00080,Rowan Quill,Premier,Phoenix,US,False
+CU00081,Finley Ingram,Small Business,Phoenix,US,False
+CU00082,Quinn Kestrel,Premier,Atlanta,US,False
+CU00083,Emerson Ellery,Premier,Dallas,US,False
+CU00084,Jamie Thorne,Premier,Charlotte,US,False
+CU00085,Rowan Garrow,Retail,Phoenix,US,False
+CU00086,Avery Kestrel,Small Business,Seattle,US,False
+CU00087,Finley Stroud,Premier,Seattle,US,False
+CU00088,Taylor Linwood,Premier,Charlotte,US,False
+CU00089,Quinn Fairbanks,Retail,Atlanta,US,False
+CU00090,Blake Stroud,Premier,Denver,US,False
+CU00091,Harper Garrow,Retail,Atlanta,US,False
+CU00092,Emerson Oakes,Retail,Miami,US,False
+CU00093,Jamie Thorne,Small Business,Boston,US,False
+CU00094,Cameron Linwood,Small Business,Denver,US,False
+CU00095,Jamie Ingram,Premier,Charlotte,US,False
+CU00096,Blake Quill,Premier,Phoenix,US,False
+CU00097,Harper Dunmore,Premier,Chicago,US,False
+CU00098,Skyler Linwood,Retail,New York,US,False
+CU00099,Hayden Alder,Retail,New York,US,False
+CU00100,Cameron Alder,Retail,New York,US,False
+CU00101,Finley Quill,Retail,Dallas,US,False
+CU00102,Reese Juniper,Retail,Boston,US,False
+CU00103,Harper Alder,Retail,Miami,US,False
+CU00104,Rowan Alder,Retail,Miami,US,False
+CU00105,Riley Oakes,Retail,Atlanta,US,False
+CU00106,Jordan Brook,Retail,New York,US,False
+CU00107,Blake Calder,Retail,Seattle,US,False
+CU00108,Morgan Northam,Retail,New York,US,False
+CU00109,Hayden Ingram,Premier,Miami,US,False
+CU00110,Riley Juniper,Retail,Charlotte,US,False
+CU00111,Dakota Northam,Small Business,Chicago,US,False
+CU00112,Avery Brook,Small Business,Denver,US,False
+CU00113,Quinn Quill,Retail,Phoenix,US,False
+CU00114,Parker Stroud,Small Business,Phoenix,US,False
+CU00115,Dakota Marlow,Retail,Boston,US,False
+CU00116,Reese Ellery,Small Business,Charlotte,US,False
+CU00117,Avery Dunmore,Retail,San Diego,US,False
+CU00118,Cameron Oakes,Retail,Seattle,US,False
+CU00119,Hayden Dunmore,Retail,Dallas,US,False
+CU00120,Finley Northam,Premier,New York,US,True
+CU00121,Reese Calder,Retail,Denver,US,False
+CU00122,Hayden Marlow,Premier,Chicago,US,False
+CU00123,Cameron Stroud,Premier,Atlanta,US,False
+CU00124,Quinn Kestrel,Retail,Denver,US,False
+CU00125,Parker Garrow,Retail,Atlanta,US,False
+CU00126,Rowan Ellery,Retail,New York,US,False
+CU00127,Reese Penrose,Retail,Denver,US,False
+CU00128,Reese Ingram,Retail,Seattle,US,False
+CU00129,Rowan Stroud,Retail,Denver,US,False
+CU00130,Cameron Kestrel,Small Business,Dallas,US,False
+CU00131,Dakota Linwood,Small Business,Minneapolis,US,False
+CU00132,Hayden Oakes,Retail,Denver,US,False
+CU00133,Skyler Brook,Retail,Seattle,US,False
+CU00134,Rowan Fairbanks,Retail,Minneapolis,US,False
+CU00135,Rowan Alder,Small Business,Charlotte,US,False
+CU00136,Riley Marlow,Retail,Denver,US,False
+CU00137,Hayden Stroud,Retail,Charlotte,US,False
+CU00138,Rowan Brook,Premier,Boston,US,False
+CU00139,Emerson Ellery,Retail,Dallas,US,False
+CU00140,Blake Fairbanks,Retail,Chicago,US,False
+CU00141,Skyler Garrow,Small Business,Seattle,US,False
+CU00142,Casey Dunmore,Small Business,Atlanta,US,False
+CU00143,Blake Oakes,Premier,Charlotte,US,False
+CU00144,Dakota Dunmore,Retail,Atlanta,US,False
+CU00145,Cameron Fairbanks,Retail,Phoenix,US,False
+CU00146,Rowan Juniper,Small Business,Denver,US,False
+CU00147,Morgan Ellery,Retail,Phoenix,US,False
+CU00148,Jordan Ellery,Retail,Chicago,US,False
+CU00149,Hayden Stroud,Retail,Seattle,US,False
+CU00150,Rowan Alder,Retail,Seattle,US,False
+CU00151,Taylor Brook,Retail,Seattle,US,False
+CU00152,Riley Thorne,Premier,Charlotte,US,False
+CU00153,Riley Dunmore,Retail,Miami,US,False
+CU00154,Avery Hollis,Retail,Seattle,US,False
+CU00155,Finley Alder,Premier,Minneapolis,US,False
+CU00156,Hayden Kestrel,Retail,New York,US,False
+CU00157,Morgan Kestrel,Retail,Minneapolis,US,False
+CU00158,Quinn Brook,Retail,Dallas,US,False
+CU00159,Hayden Stroud,Retail,Seattle,US,False
+CU00160,Blake Kestrel,Retail,Phoenix,US,False
+CU00161,Riley Fairbanks,Small Business,Dallas,US,False
+CU00162,Avery Alder,Small Business,Dallas,US,False
+CU00163,Casey Ellery,Retail,Minneapolis,US,False
+CU00164,Avery Penrose,Retail,Boston,US,False
+CU00165,Harper Calder,Retail,Miami,US,False
+CU00166,Parker Stroud,Retail,Denver,US,False
+CU00167,Casey Redfern,Retail,Phoenix,US,False
+CU00168,Sage Northam,Retail,Phoenix,US,False
+CU00169,Taylor Ellery,Premier,Atlanta,US,False
+CU00170,Blake Hollis,Retail,Minneapolis,US,False
+CU00171,Reese Quill,Premier,Denver,US,False
+CU00172,Sage Dunmore,Retail,Charlotte,US,False
+CU00173,Emerson Calder,Retail,San Diego,US,False
+CU00174,Jamie Garrow,Retail,Charlotte,US,True
+CU00175,Cameron Linwood,Small Business,Atlanta,US,False
+CU00176,Emerson Linwood,Small Business,Atlanta,US,False
+CU00177,Taylor Brook,Retail,Seattle,US,False
+CU00178,Taylor Dunmore,Retail,San Diego,US,False
+CU00179,Parker Calder,Retail,Charlotte,US,False
+CU00180,Morgan Juniper,Retail,Chicago,US,False
+CU00181,Skyler Ellery,Small Business,Phoenix,US,False
+CU00182,Riley Alder,Small Business,Dallas,US,False
+CU00183,Parker Ingram,Small Business,New York,US,False
+CU00184,Jordan Thorne,Premier,Dallas,US,False
+CU00185,Reese Northam,Retail,Phoenix,US,False
+CU00186,Sage Fairbanks,Retail,Boston,US,False
+CU00187,Rowan Hollis,Small Business,Minneapolis,US,True
+CU00188,Sage Fairbanks,Retail,San Diego,US,False
+CU00189,Skyler Linwood,Retail,Chicago,US,True
+CU00190,Rowan Juniper,Premier,Charlotte,US,False
+CU00191,Finley Brook,Retail,New York,US,False
+CU00192,Casey Ellery,Retail,Denver,US,False
+CU00193,Morgan Alder,Retail,New York,US,False
+CU00194,Jordan Linwood,Retail,New York,US,False
+CU00195,Harper Linwood,Retail,New York,US,False
+CU00196,Jordan Calder,Retail,San Diego,US,False
+CU00197,Jamie Oakes,Premier,Chicago,US,False
+CU00198,Dakota Juniper,Premier,Phoenix,US,False
+CU00199,Dakota Dunmore,Premier,New York,US,False
+CU00200,Taylor Calder,Premier,Seattle,US,False
+CU00201,Parker Thorne,Retail,Miami,US,False
+CU00202,Sage Calder,Small Business,Dallas,US,False
+CU00203,Avery Kestrel,Premier,Denver,US,False
+CU00204,Morgan Dunmore,Retail,Seattle,US,False
+CU00205,Reese Oakes,Retail,Dallas,US,False
+CU00206,Morgan Oakes,Premier,New York,US,False
+CU00207,Finley Fairbanks,Retail,Boston,US,False
+CU00208,Jordan Marlow,Retail,Charlotte,US,False
+CU00209,Emerson Kestrel,Premier,Atlanta,US,False
+CU00210,Casey Fairbanks,Retail,Denver,US,False
+CU00211,Blake Ingram,Premier,San Diego,US,False
+CU00212,Riley Garrow,Retail,Charlotte,US,False
+CU00213,Parker Thorne,Retail,Chicago,US,False
+CU00214,Sage Brook,Retail,Chicago,US,False
+CU00215,Finley Stroud,Retail,Minneapolis,US,False
+CU00216,Cameron Garrow,Retail,Boston,US,False
+CU00217,Reese Hollis,Premier,Atlanta,US,False
+CU00218,Dakota Fairbanks,Retail,Seattle,US,False
+CU00219,Taylor Juniper,Retail,Charlotte,US,True
+CU00220,Dakota Dunmore,Retail,San Diego,US,False
+CU00221,Jamie Brook,Retail,Phoenix,US,False
+CU00222,Reese Marlow,Premier,Charlotte,US,False
+CU00223,Sage Fairbanks,Retail,Atlanta,US,False
+CU00224,Taylor Northam,Premier,Charlotte,US,True
+CU00225,Skyler Linwood,Small Business,Boston,US,False
+CU00226,Quinn Quill,Premier,San Diego,US,False
+CU00227,Jordan Alder,Premier,Miami,US,False
+CU00228,Jamie Brook,Small Business,Phoenix,US,False
+CU00229,Riley Garrow,Retail,Boston,US,False
+CU00230,Taylor Ingram,Retail,Miami,US,False
+CU00231,Skyler Brook,Small Business,Charlotte,US,False
+CU00232,Parker Hollis,Premier,Charlotte,US,False
+CU00233,Jamie Ingram,Small Business,New York,US,False
+CU00234,Hayden Calder,Retail,Phoenix,US,False
+CU00235,Emerson Penrose,Retail,Phoenix,US,False
+CU00236,Sage Marlow,Retail,Atlanta,US,False
+CU00237,Jordan Stroud,Premier,Charlotte,US,False
+CU00238,Hayden Redfern,Retail,Seattle,US,False
+CU00239,Rowan Kestrel,Retail,New York,US,False
+CU00240,Taylor Ingram,Small Business,Seattle,US,False
+CU00241,Skyler Hollis,Retail,New York,US,False
+CU00242,Parker Calder,Premier,San Diego,US,False
+CU00243,Cameron Redfern,Small Business,Seattle,US,False
+CU00244,Morgan Alder,Retail,Chicago,US,False
+CU00245,Jordan Brook,Premier,Miami,US,False
+CU00246,Sage Ellery,Small Business,Dallas,US,False
+CU00247,Harper Redfern,Premier,New York,US,False
+CU00248,Casey Stroud,Retail,Minneapolis,US,False
+CU00249,Jamie Thorne,Retail,Miami,US,False
+CU00250,Hayden Thorne,Retail,Minneapolis,US,False
+CU00251,Rowan Brook,Retail,Dallas,US,False
+CU00252,Parker Dunmore,Retail,Minneapolis,US,False
+CU00253,Reese Ellery,Retail,Seattle,US,False
+CU00254,Harper Linwood,Retail,San Diego,US,False
+CU00255,Jamie Hollis,Retail,Denver,US,False
+CU00256,Skyler Northam,Retail,Charlotte,US,False
+CU00257,Skyler Thorne,Retail,Atlanta,US,False
+CU00258,Casey Hollis,Retail,Boston,US,False
+CU00259,Avery Brook,Retail,Phoenix,US,True
+CU00260,Skyler Redfern,Retail,Minneapolis,US,False
+CU00261,Rowan Brook,Retail,Phoenix,US,False
+CU00262,Riley Quill,Retail,San Diego,US,False
+CU00263,Quinn Juniper,Small Business,San Diego,US,False
+CU00264,Hayden Brook,Retail,Boston,US,False
+CU00265,Rowan Linwood,Retail,Phoenix,US,False
+CU00266,Avery Marlow,Retail,Minneapolis,US,False
+CU00267,Cameron Quill,Retail,Boston,US,False
+CU00268,Finley Linwood,Premier,Charlotte,US,False
+CU00269,Hayden Calder,Retail,New York,US,False
+CU00270,Reese Northam,Small Business,Minneapolis,US,False
+CU00271,Riley Northam,Retail,Atlanta,US,False
+CU00272,Hayden Calder,Retail,Miami,US,False
+CU00273,Blake Oakes,Small Business,Phoenix,US,False
+CU00274,Emerson Thorne,Retail,Chicago,US,False
+CU00275,Hayden Alder,Retail,Chicago,US,False
+CU00276,Morgan Alder,Retail,Seattle,US,False
+CU00277,Hayden Linwood,Retail,Dallas,US,False
+CU00278,Cameron Quill,Retail,Seattle,US,False
+CU00279,Dakota Alder,Retail,Dallas,US,False
+CU00280,Finley Ellery,Retail,Denver,US,False
+CU00281,Jamie Quill,Retail,Seattle,US,False
+CU00282,Jamie Hollis,Retail,Phoenix,US,False
+CU00283,Quinn Dunmore,Small Business,Minneapolis,US,False
+CU00284,Harper Ellery,Premier,Miami,US,False
+CU00285,Cameron Ingram,Retail,Phoenix,US,False
+CU00286,Dakota Ellery,Small Business,New York,US,False
+CU00287,Parker Juniper,Premier,Minneapolis,US,False
+CU00288,Avery Kestrel,Small Business,Seattle,US,False
+CU00289,Morgan Thorne,Premier,Minneapolis,US,False
+CU00290,Sage Kestrel,Retail,San Diego,US,False
+CU00291,Sage Brook,Retail,Minneapolis,US,False
+CU00292,Skyler Fairbanks,Retail,Miami,US,False
+CU00293,Hayden Thorne,Retail,Atlanta,US,False
+CU00294,Jordan Northam,Retail,Boston,US,False
+CU00295,Jordan Oakes,Premier,New York,US,False
+CU00296,Sage Linwood,Premier,San Diego,US,False
+CU00297,Jordan Hollis,Small Business,New York,US,False
+CU00298,Rowan Marlow,Small Business,San Diego,US,False
+CU00299,Skyler Quill,Small Business,Miami,US,False
+CU00300,Casey Marlow,Retail,Atlanta,US,True
+CU00301,Rowan Penrose,Retail,New York,US,False
+CU00302,Emerson Ingram,Retail,Denver,US,False
+CU00303,Morgan Stroud,Retail,New York,US,False
+CU00304,Hayden Calder,Retail,New York,US,False
+CU00305,Parker Stroud,Small Business,Miami,US,False
+CU00306,Sage Quill,Retail,Miami,US,False
+CU00307,Emerson Calder,Premier,New York,US,False
+CU00308,Blake Dunmore,Small Business,Phoenix,US,False
+CU00309,Avery Hollis,Premier,Seattle,US,False
+CU00310,Jordan Marlow,Retail,Minneapolis,US,False
+CU00311,Rowan Oakes,Retail,Seattle,US,False
+CU00312,Finley Alder,Small Business,New York,US,False
+CU00313,Blake Ellery,Small Business,Phoenix,US,False
+CU00314,Sage Penrose,Small Business,Miami,US,False
+CU00315,Emerson Brook,Premier,San Diego,US,False
+CU00316,Taylor Oakes,Retail,San Diego,US,False
+CU00317,Casey Brook,Retail,New York,US,False
+CU00318,Skyler Alder,Small Business,New York,US,False
+CU00319,Morgan Dunmore,Retail,Chicago,US,False
+CU00320,Riley Redfern,Retail,Phoenix,US,False
+CU00321,Parker Dunmore,Retail,Minneapolis,US,False
+CU00322,Hayden Calder,Retail,Phoenix,US,False
+CU00323,Parker Brook,Retail,Dallas,US,False
+CU00324,Skyler Kestrel,Retail,Boston,US,False
+CU00325,Casey Northam,Premier,Charlotte,US,False
+CU00326,Parker Calder,Premier,New York,US,False
+CU00327,Riley Calder,Retail,Seattle,US,False
+CU00328,Jamie Linwood,Retail,Minneapolis,US,False
+CU00329,Hayden Redfern,Small Business,Boston,US,False
+CU00330,Dakota Garrow,Premier,Charlotte,US,False
+CU00331,Harper Redfern,Retail,Charlotte,US,False
+CU00332,Jamie Oakes,Premier,Seattle,US,False
+CU00333,Jamie Calder,Premier,Atlanta,US,False
+CU00334,Jamie Linwood,Retail,Miami,US,False
+CU00335,Cameron Alder,Retail,Chicago,US,False
+CU00336,Jamie Calder,Retail,Denver,US,False
+CU00337,Sage Oakes,Retail,Charlotte,US,False
+CU00338,Harper Marlow,Premier,Minneapolis,US,False
+CU00339,Blake Ellery,Premier,Denver,US,False
+CU00340,Harper Oakes,Small Business,Atlanta,US,False
+CU00341,Emerson Marlow,Retail,New York,US,False
+CU00342,Casey Northam,Premier,New York,US,False
+CU00343,Rowan Thorne,Retail,New York,US,False
+CU00344,Taylor Marlow,Small Business,Minneapolis,US,False
+CU00345,Morgan Ingram,Small Business,Atlanta,US,False
+CU00346,Hayden Redfern,Retail,Miami,US,False
+CU00347,Riley Marlow,Retail,San Diego,US,False
+CU00348,Harper Kestrel,Retail,Seattle,US,False
+CU00349,Morgan Penrose,Premier,New York,US,False
+CU00350,Riley Hollis,Premier,Atlanta,US,False
+CU00351,Dakota Ellery,Retail,Phoenix,US,False
+CU00352,Skyler Ingram,Retail,Denver,US,False
+CU00353,Reese Kestrel,Retail,Minneapolis,US,False
+CU00354,Rowan Quill,Small Business,Denver,US,False
+CU00355,Quinn Juniper,Premier,Phoenix,US,False
+CU00356,Cameron Juniper,Retail,San Diego,US,False
+CU00357,Blake Alder,Small Business,Charlotte,US,False
+CU00358,Taylor Stroud,Premier,Miami,US,False
+CU00359,Jordan Linwood,Premier,Atlanta,US,False
+CU00360,Dakota Marlow,Retail,Chicago,US,False
+CU00361,Emerson Kestrel,Retail,San Diego,US,False
+CU00362,Skyler Quill,Retail,Miami,US,False
+CU00363,Quinn Linwood,Small Business,Chicago,US,False
+CU00364,Quinn Juniper,Retail,Dallas,US,False
+CU00365,Riley Kestrel,Retail,Seattle,US,False
+CU00366,Riley Garrow,Retail,Minneapolis,US,True
+CU00367,Morgan Juniper,Retail,Boston,US,False
+CU00368,Dakota Fairbanks,Premier,Charlotte,US,False
+CU00369,Avery Ellery,Retail,New York,US,False
+CU00370,Blake Stroud,Premier,New York,US,False
+CU00371,Rowan Ellery,Retail,Miami,US,False
+CU00372,Jordan Juniper,Retail,Chicago,US,False
+CU00373,Dakota Linwood,Retail,Dallas,US,False
+CU00374,Quinn Juniper,Retail,Chicago,US,False
+CU00375,Dakota Ellery,Retail,New York,US,False
+CU00376,Riley Hollis,Retail,New York,US,False
+CU00377,Skyler Northam,Retail,Boston,US,False
+CU00378,Avery Garrow,Retail,Boston,US,False
+CU00379,Emerson Fairbanks,Retail,Denver,US,False
+CU00380,Jamie Alder,Retail,Phoenix,US,False
+CU00381,Blake Hollis,Retail,Phoenix,US,False
+CU00382,Riley Penrose,Retail,Charlotte,US,False
+CU00383,Jordan Garrow,Premier,Chicago,US,False
+CU00384,Sage Brook,Retail,San Diego,US,False
+CU00385,Rowan Garrow,Premier,Denver,US,False
+CU00386,Quinn Kestrel,Small Business,Minneapolis,US,False
+CU00387,Sage Fairbanks,Retail,Boston,US,False
+CU00388,Cameron Redfern,Premier,Chicago,US,False
+CU00389,Dakota Alder,Retail,Seattle,US,False
+CU00390,Quinn Linwood,Retail,Seattle,US,False
+CU00391,Dakota Redfern,Retail,Chicago,US,False
+CU00392,Casey Brook,Retail,Miami,US,False
+CU00393,Jordan Garrow,Retail,Miami,US,False
+CU00394,Finley Quill,Small Business,Seattle,US,False
+CU00395,Quinn Dunmore,Retail,New York,US,False
+CU00396,Morgan Calder,Premier,Denver,US,False
+CU00397,Avery Kestrel,Retail,Atlanta,US,False
+CU00398,Quinn Stroud,Premier,Denver,US,False
+CU00399,Jordan Ingram,Premier,Dallas,US,False
+CU00400,Parker Northam,Small Business,Miami,US,True
+CU00401,Finley Northam,Retail,Atlanta,US,False
+CU00402,Quinn Garrow,Premier,Atlanta,US,False
+CU00403,Avery Oakes,Retail,Miami,US,False
+CU00404,Jordan Stroud,Retail,Denver,US,False
+CU00405,Emerson Dunmore,Retail,San Diego,US,False
+CU00406,Emerson Brook,Retail,Seattle,US,False
+CU00407,Skyler Dunmore,Premier,Atlanta,US,False
+CU00408,Skyler Alder,Retail,Boston,US,False
+CU00409,Quinn Ellery,Retail,Denver,US,False
+CU00410,Reese Alder,Retail,Minneapolis,US,False
+CU00411,Dakota Stroud,Premier,Minneapolis,US,False
+CU00412,Casey Oakes,Retail,Miami,US,False
+CU00413,Rowan Brook,Retail,San Diego,US,False
+CU00414,Parker Penrose,Retail,Denver,US,False
+CU00415,Parker Ingram,Retail,Minneapolis,US,False
+CU00416,Casey Northam,Retail,Minneapolis,US,False
+CU00417,Hayden Hollis,Retail,Charlotte,US,False
+CU00418,Sage Dunmore,Retail,Boston,US,False
+CU00419,Morgan Stroud,Retail,Chicago,US,False
+CU00420,Dakota Redfern,Small Business,Boston,US,False
+CU00421,Jamie Kestrel,Premier,Minneapolis,US,False
+CU00422,Riley Hollis,Retail,Chicago,US,False
+CU00423,Jamie Marlow,Premier,Dallas,US,False
+CU00424,Harper Penrose,Retail,Seattle,US,False
+CU00425,Parker Penrose,Retail,Atlanta,US,False
+CU00426,Riley Marlow,Premier,Dallas,US,False
+CU00427,Hayden Penrose,Retail,Minneapolis,US,False
+CU00428,Morgan Quill,Retail,New York,US,False
+CU00429,Morgan Penrose,Premier,Phoenix,US,False
+CU00430,Riley Dunmore,Small Business,Boston,US,False
+CU00431,Dakota Alder,Small Business,Chicago,US,False
+CU00432,Taylor Ellery,Retail,Phoenix,US,False
+CU00433,Emerson Northam,Retail,Phoenix,US,False
+CU00434,Quinn Hollis,Premier,Minneapolis,US,False
+CU00435,Avery Calder,Retail,Charlotte,US,False
+CU00436,Blake Thorne,Retail,New York,US,False
+CU00437,Sage Penrose,Retail,Boston,US,False
+CU00438,Quinn Quill,Retail,Seattle,US,False
+CU00439,Harper Ingram,Small Business,Minneapolis,US,False
+CU00440,Casey Oakes,Small Business,Denver,US,False
+CU00441,Riley Brook,Retail,Phoenix,US,False
+CU00442,Skyler Linwood,Small Business,Seattle,US,False
+CU00443,Emerson Hollis,Small Business,New York,US,False
+CU00444,Dakota Calder,Retail,Miami,US,False
+CU00445,Reese Dunmore,Small Business,New York,US,False
+CU00446,Jamie Calder,Premier,Dallas,US,False
+CU00447,Jordan Northam,Retail,Phoenix,US,False
+CU00448,Dakota Stroud,Retail,Atlanta,US,False
+CU00449,Finley Linwood,Premier,Denver,US,False
+CU00450,Dakota Juniper,Retail,Miami,US,False
+CU00451,Harper Brook,Retail,Atlanta,US,False
+CU00452,Finley Penrose,Premier,Denver,US,False
+CU00453,Jordan Alder,Premier,Boston,US,False
+CU00454,Emerson Kestrel,Retail,Seattle,US,False
+CU00455,Morgan Dunmore,Premier,Chicago,US,False
+CU00456,Rowan Marlow,Retail,Charlotte,US,False
+CU00457,Rowan Thorne,Retail,Charlotte,US,False
+CU00458,Skyler Redfern,Retail,Phoenix,US,False
+CU00459,Reese Alder,Retail,Denver,US,False
+CU00460,Taylor Calder,Premier,Atlanta,US,False
+CU00461,Casey Hollis,Premier,Chicago,US,False
+CU00462,Reese Brook,Retail,Atlanta,US,False
+CU00463,Dakota Dunmore,Retail,Seattle,US,False
+CU00464,Parker Juniper,Retail,Dallas,US,False
+CU00465,Reese Marlow,Small Business,Phoenix,US,False
+CU00466,Sage Redfern,Retail,Phoenix,US,False
+CU00467,Skyler Hollis,Premier,Denver,US,False
+CU00468,Hayden Calder,Retail,Seattle,US,False
+CU00469,Jordan Marlow,Small Business,Charlotte,US,False
+CU00470,Taylor Brook,Retail,Dallas,US,False
+CU00471,Hayden Penrose,Small Business,Seattle,US,False
+CU00472,Sage Marlow,Retail,Atlanta,US,False
+CU00473,Casey Quill,Premier,New York,US,False
+CU00474,Parker Fairbanks,Small Business,Minneapolis,US,False
+CU00475,Finley Kestrel,Retail,Minneapolis,US,False
+CU00476,Morgan Dunmore,Premier,Chicago,US,False
+CU00477,Rowan Quill,Retail,Minneapolis,US,False
+CU00478,Reese Fairbanks,Retail,Boston,US,False
+CU00479,Emerson Marlow,Retail,Phoenix,US,False
+CU00480,Rowan Oakes,Retail,Charlotte,US,False
+CU00481,Riley Penrose,Retail,Miami,US,False
+CU00482,Parker Juniper,Retail,Seattle,US,False
+CU00483,Blake Ellery,Retail,Denver,US,False
+CU00484,Hayden Juniper,Premier,Dallas,US,False
+CU00485,Harper Hollis,Retail,Boston,US,False
+CU00486,Taylor Northam,Retail,Boston,US,False
+CU00487,Reese Oakes,Retail,San Diego,US,False
+CU00488,Parker Garrow,Retail,Denver,US,False
+CU00489,Casey Juniper,Premier,Denver,US,False
+CU00490,Harper Juniper,Small Business,Phoenix,US,True
+CU00491,Hayden Linwood,Premier,Atlanta,US,False
+CU00492,Jamie Juniper,Retail,San Diego,US,False
+CU00493,Hayden Thorne,Small Business,Chicago,US,False
+CU00494,Emerson Oakes,Retail,Miami,US,False
+CU00495,Quinn Calder,Small Business,Charlotte,US,False
+CU00496,Harper Garrow,Small Business,Chicago,US,False
+CU00497,Casey Dunmore,Small Business,Miami,US,False
+CU00498,Quinn Oakes,Retail,Atlanta,US,False
+CU00499,Rowan Juniper,Retail,Denver,US,False
+CU00500,Finley Hollis,Retail,Minneapolis,US,False
+CU00501,Dakota Linwood,Retail,Atlanta,US,False
+CU00502,Finley Juniper,Small Business,Chicago,US,False
+CU00503,Riley Hollis,Retail,Charlotte,US,False
+CU00504,Morgan Garrow,Retail,Seattle,US,False
+CU00505,Harper Kestrel,Small Business,Boston,US,False
+CU00506,Quinn Ellery,Retail,Phoenix,US,False
+CU00507,Skyler Dunmore,Retail,Dallas,US,False
+CU00508,Jamie Kestrel,Retail,Boston,US,False
+CU00509,Blake Ingram,Small Business,Phoenix,US,False
+CU00510,Skyler Redfern,Retail,Atlanta,US,False
+CU00511,Harper Marlow,Premier,Atlanta,US,False
+CU00512,Morgan Calder,Retail,Chicago,US,False
+CU00513,Morgan Thorne,Retail,Phoenix,US,False
+CU00514,Sage Garrow,Retail,San Diego,US,False
+CU00515,Taylor Thorne,Small Business,Miami,US,False
+CU00516,Jordan Alder,Retail,Miami,US,False
+CU00517,Rowan Thorne,Premier,Atlanta,US,False
+CU00518,Cameron Penrose,Retail,Chicago,US,False
+CU00519,Hayden Thorne,Retail,Chicago,US,False
+CU00520,Rowan Oakes,Retail,Phoenix,US,False
+CU00521,Finley Hollis,Retail,San Diego,US,False
+CU00522,Sage Stroud,Retail,Atlanta,US,False
+CU00523,Dakota Quill,Retail,Denver,US,False
+CU00524,Quinn Thorne,Retail,San Diego,US,False
+CU00525,Skyler Alder,Retail,Atlanta,US,False
+CU00526,Parker Thorne,Retail,San Diego,US,False
+CU00527,Hayden Stroud,Retail,Denver,US,False
+CU00528,Parker Calder,Retail,Denver,US,False
+CU00529,Quinn Linwood,Retail,New York,US,False
+CU00530,Harper Quill,Retail,Seattle,US,False
+CU00531,Quinn Hollis,Retail,Minneapolis,US,False
+CU00532,Finley Thorne,Premier,New York,US,False
+CU00533,Jordan Northam,Small Business,Dallas,US,False
+CU00534,Jordan Garrow,Premier,Miami,US,False
+CU00535,Parker Alder,Small Business,New York,US,False
+CU00536,Casey Stroud,Premier,Miami,US,False
+CU00537,Dakota Ellery,Retail,San Diego,US,False
+CU00538,Jamie Oakes,Retail,Chicago,US,False
+CU00539,Blake Fairbanks,Retail,Miami,US,False
+CU00540,Casey Thorne,Small Business,Dallas,US,False
+CU00541,Dakota Stroud,Small Business,New York,US,False
+CU00542,Harper Ingram,Retail,Phoenix,US,False
+CU00543,Casey Brook,Retail,Minneapolis,US,False
+CU00544,Parker Calder,Retail,Chicago,US,False
+CU00545,Jamie Northam,Premier,Phoenix,US,False
+CU00546,Rowan Juniper,Retail,Seattle,US,False
+CU00547,Parker Ellery,Small Business,Dallas,US,False
+CU00548,Hayden Calder,Retail,Dallas,US,False
+CU00549,Hayden Juniper,Small Business,Seattle,US,False
+CU00550,Dakota Northam,Premier,Phoenix,US,False
+CU00551,Morgan Hollis,Small Business,Charlotte,US,False
+CU00552,Taylor Dunmore,Premier,San Diego,US,False
+CU00553,Quinn Kestrel,Premier,Denver,US,False
+CU00554,Reese Hollis,Small Business,Miami,US,False
+CU00555,Jamie Fairbanks,Retail,San Diego,US,False
+CU00556,Avery Thorne,Retail,Seattle,US,False
+CU00557,Quinn Fairbanks,Retail,Minneapolis,US,False
+CU00558,Dakota Juniper,Retail,Seattle,US,False
+CU00559,Finley Marlow,Premier,New York,US,False
+CU00560,Blake Northam,Retail,Dallas,US,True
+CU00561,Parker Redfern,Premier,Phoenix,US,False
+CU00562,Jamie Kestrel,Retail,Charlotte,US,False
+CU00563,Reese Ellery,Retail,Miami,US,False
+CU00564,Riley Northam,Retail,Dallas,US,False
+CU00565,Riley Penrose,Small Business,Boston,US,False
+CU00566,Sage Garrow,Retail,Dallas,US,False
+CU00567,Emerson Garrow,Small Business,Seattle,US,False
+CU00568,Cameron Stroud,Retail,Charlotte,US,True
+CU00569,Morgan Fairbanks,Retail,Dallas,US,False
+CU00570,Emerson Northam,Retail,Phoenix,US,False
+CU00571,Avery Stroud,Retail,Boston,US,False
+CU00572,Blake Redfern,Retail,New York,US,False
+CU00573,Quinn Hollis,Premier,Boston,US,False
+CU00574,Jordan Stroud,Premier,Seattle,US,False
+CU00575,Morgan Calder,Small Business,Minneapolis,US,False
+CU00576,Jamie Juniper,Retail,San Diego,US,True
+CU00577,Casey Calder,Retail,Minneapolis,US,False
+CU00578,Reese Juniper,Premier,Boston,US,False
+CU00579,Emerson Oakes,Retail,Chicago,US,False
+CU00580,Hayden Garrow,Retail,Dallas,US,False
+CU00581,Casey Quill,Small Business,Charlotte,US,False
+CU00582,Cameron Calder,Retail,San Diego,US,False
+CU00583,Jamie Kestrel,Retail,Chicago,US,False
+CU00584,Parker Northam,Retail,Chicago,US,False
+CU00585,Sage Alder,Premier,Atlanta,US,False
+CU00586,Hayden Marlow,Retail,Minneapolis,US,False
+CU00587,Avery Oakes,Premier,Atlanta,US,False
+CU00588,Skyler Marlow,Retail,San Diego,US,False
+CU00589,Cameron Juniper,Small Business,Boston,US,False
+CU00590,Cameron Brook,Small Business,Phoenix,US,False
+CU00591,Casey Ingram,Small Business,Boston,US,False
+CU00592,Quinn Hollis,Retail,Chicago,US,False
+CU00593,Morgan Alder,Retail,Phoenix,US,False
+CU00594,Riley Brook,Retail,Atlanta,US,False
+CU00595,Cameron Brook,Retail,Minneapolis,US,False
+CU00596,Finley Thorne,Retail,Dallas,US,False
+CU00597,Parker Quill,Small Business,Charlotte,US,False
+CU00598,Reese Kestrel,Premier,New York,US,False
+CU00599,Emerson Fairbanks,Premier,Chicago,US,False
+CU00600,Dakota Dunmore,Small Business,New York,US,False
+CU00601,Jamie Penrose,Retail,Charlotte,US,False
+CU00602,Jordan Oakes,Premier,Chicago,US,False
+CU00603,Reese Ellery,Retail,Atlanta,US,False
+CU00604,Morgan Garrow,Retail,Miami,US,False
+CU00605,Casey Oakes,Retail,Dallas,US,False
+CU00606,Hayden Dunmore,Premier,San Diego,US,False
+CU00607,Parker Northam,Retail,Phoenix,US,True
+CU00608,Avery Ellery,Retail,Atlanta,US,False
+CU00609,Finley Calder,Retail,Dallas,US,False
+CU00610,Hayden Fairbanks,Retail,Chicago,US,False
+CU00611,Sage Quill,Premier,Phoenix,US,False
+CU00612,Dakota Kestrel,Small Business,Boston,US,False
+CU00613,Casey Calder,Retail,San Diego,US,False
+CU00614,Taylor Calder,Retail,Chicago,US,False
+CU00615,Hayden Brook,Premier,Charlotte,US,False
+CU00616,Sage Alder,Retail,Charlotte,US,False
+CU00617,Cameron Brook,Retail,Minneapolis,US,False
+CU00618,Rowan Northam,Premier,New York,US,False
+CU00619,Sage Garrow,Small Business,Seattle,US,False
+CU00620,Reese Garrow,Premier,New York,US,False
+CU00621,Jamie Linwood,Premier,Boston,US,False
+CU00622,Skyler Marlow,Retail,Boston,US,False
+CU00623,Quinn Calder,Premier,Minneapolis,US,False
+CU00624,Harper Hollis,Retail,Denver,US,False
+CU00625,Morgan Redfern,Retail,Boston,US,False
+CU00626,Jordan Penrose,Small Business,Boston,US,False
+CU00627,Morgan Hollis,Retail,San Diego,US,False
+CU00628,Emerson Thorne,Retail,Minneapolis,US,False
+CU00629,Finley Garrow,Premier,Atlanta,US,False
+CU00630,Morgan Alder,Retail,Dallas,US,False
+CU00631,Jordan Stroud,Retail,Miami,US,False
+CU00632,Harper Alder,Retail,Boston,US,False
+CU00633,Finley Linwood,Retail,Minneapolis,US,False
+CU00634,Blake Ingram,Retail,Phoenix,US,False
+CU00635,Harper Fairbanks,Premier,San Diego,US,False
+CU00636,Casey Penrose,Premier,Seattle,US,False
+CU00637,Cameron Hollis,Premier,Dallas,US,False
+CU00638,Cameron Alder,Premier,Atlanta,US,False
+CU00639,Taylor Penrose,Retail,Minneapolis,US,False
+CU00640,Cameron Dunmore,Retail,Chicago,US,False
+CU00641,Morgan Linwood,Retail,Dallas,US,False
+CU00642,Sage Stroud,Retail,Charlotte,US,False
+CU00643,Rowan Calder,Premier,Denver,US,False
+CU00644,Jordan Oakes,Premier,Atlanta,US,False
+CU00645,Dakota Oakes,Premier,Denver,US,False
+CU00646,Riley Juniper,Retail,Phoenix,US,False
+CU00647,Taylor Quill,Retail,Charlotte,US,False
+CU00648,Finley Hollis,Retail,Miami,US,False
+CU00649,Skyler Kestrel,Retail,Charlotte,US,True
+CU00650,Harper Calder,Premier,Minneapolis,US,False
+CU00651,Harper Penrose,Retail,Atlanta,US,False
+CU00652,Jamie Hollis,Small Business,Charlotte,US,False
+CU00653,Sage Stroud,Retail,Miami,US,False
+CU00654,Dakota Juniper,Retail,Dallas,US,False
+CU00655,Jordan Penrose,Premier,Denver,US,False
+CU00656,Parker Marlow,Premier,Charlotte,US,False
+CU00657,Taylor Calder,Premier,Charlotte,US,False
+CU00658,Avery Dunmore,Small Business,Chicago,US,False
+CU00659,Taylor Linwood,Small Business,Dallas,US,False
+CU00660,Blake Linwood,Retail,Chicago,US,False
+CU00661,Casey Redfern,Retail,Charlotte,US,False
+CU00662,Jordan Brook,Retail,New York,US,False
+CU00663,Jamie Northam,Premier,Denver,US,False
+CU00664,Parker Northam,Retail,Atlanta,US,False
+CU00665,Blake Oakes,Retail,Atlanta,US,False
+CU00666,Reese Fairbanks,Retail,Boston,US,False
+CU00667,Cameron Fairbanks,Retail,Boston,US,False
+CU00668,Avery Ellery,Retail,San Diego,US,False
+CU00669,Reese Thorne,Retail,Denver,US,False
+CU00670,Avery Thorne,Retail,Atlanta,US,False
+CU00671,Hayden Ellery,Retail,Boston,US,False
+CU00672,Cameron Quill,Retail,Seattle,US,False
+CU00673,Finley Penrose,Small Business,Miami,US,False
+CU00674,Jordan Kestrel,Premier,Charlotte,US,False
+CU00675,Morgan Juniper,Retail,Chicago,US,False
+CU00676,Dakota Redfern,Small Business,Denver,US,False
+CU00677,Dakota Penrose,Retail,Boston,US,False
+CU00678,Sage Stroud,Retail,Phoenix,US,False
+CU00679,Avery Garrow,Small Business,Miami,US,False
+CU00680,Quinn Stroud,Retail,Chicago,US,False
+CU00681,Quinn Kestrel,Small Business,Chicago,US,False
+CU00682,Sage Linwood,Retail,Phoenix,US,False
+CU00683,Hayden Hollis,Retail,Miami,US,False
+CU00684,Taylor Redfern,Small Business,Phoenix,US,True
+CU00685,Casey Quill,Premier,Denver,US,False
+CU00686,Finley Stroud,Retail,San Diego,US,False
+CU00687,Finley Hollis,Small Business,Boston,US,False
+CU00688,Morgan Ingram,Retail,Charlotte,US,False
+CU00689,Sage Alder,Retail,Atlanta,US,False
+CU00690,Morgan Garrow,Small Business,Dallas,US,False
+CU00691,Sage Alder,Retail,Minneapolis,US,False
+CU00692,Casey Hollis,Premier,Dallas,US,False
+CU00693,Blake Juniper,Retail,Charlotte,US,False
+CU00694,Jordan Hollis,Premier,Seattle,US,False
+CU00695,Sage Ingram,Premier,Minneapolis,US,False
+CU00696,Skyler Penrose,Retail,Phoenix,US,False
+CU00697,Avery Calder,Premier,Phoenix,US,False
+CU00698,Taylor Fairbanks,Retail,Dallas,US,False
+CU00699,Sage Oakes,Retail,New York,US,False
+CU00700,Harper Thorne,Small Business,Dallas,US,False
+CU00701,Emerson Quill,Premier,Dallas,US,False
+CU00702,Dakota Stroud,Small Business,San Diego,US,False
+CU00703,Parker Thorne,Retail,New York,US,False
+CU00704,Quinn Calder,Retail,San Diego,US,False
+CU00705,Cameron Fairbanks,Retail,Seattle,US,False
+CU00706,Casey Stroud,Small Business,San Diego,US,False
+CU00707,Avery Hollis,Retail,New York,US,False
+CU00708,Rowan Kestrel,Premier,Dallas,US,False
+CU00709,Harper Northam,Premier,Miami,US,False
+CU00710,Harper Dunmore,Retail,Dallas,US,False
+CU00711,Dakota Brook,Premier,Boston,US,False
+CU00712,Quinn Brook,Retail,Miami,US,False
+CU00713,Jamie Garrow,Retail,Atlanta,US,False
+CU00714,Blake Oakes,Premier,Atlanta,US,False
+CU00715,Harper Dunmore,Retail,Chicago,US,False
+CU00716,Quinn Ingram,Retail,Dallas,US,False
+CU00717,Parker Calder,Retail,New York,US,False
+CU00718,Finley Quill,Small Business,Minneapolis,US,False
+CU00719,Riley Quill,Small Business,Chicago,US,False
+CU00720,Morgan Kestrel,Retail,Charlotte,US,False
+CU00721,Jordan Thorne,Small Business,Seattle,US,False
+CU00722,Avery Marlow,Retail,Phoenix,US,False
+CU00723,Skyler Ingram,Retail,New York,US,False
+CU00724,Reese Oakes,Retail,Miami,US,False
+CU00725,Emerson Thorne,Premier,New York,US,False
+CU00726,Skyler Garrow,Retail,Denver,US,False
+CU00727,Morgan Ingram,Retail,Dallas,US,False
+CU00728,Skyler Oakes,Retail,Miami,US,False
+CU00729,Avery Kestrel,Retail,Charlotte,US,False
+CU00730,Hayden Ingram,Retail,Phoenix,US,False
+CU00731,Hayden Quill,Small Business,Seattle,US,True
+CU00732,Parker Juniper,Small Business,Miami,US,False
+CU00733,Morgan Calder,Retail,Atlanta,US,False
+CU00734,Dakota Redfern,Retail,Phoenix,US,False
+CU00735,Harper Kestrel,Retail,Boston,US,False
+CU00736,Parker Ingram,Small Business,Phoenix,US,False
+CU00737,Sage Redfern,Retail,Chicago,US,True
+CU00738,Jamie Quill,Premier,Boston,US,False
+CU00739,Blake Penrose,Small Business,Chicago,US,False
+CU00740,Avery Dunmore,Premier,Chicago,US,False
+CU00741,Blake Brook,Small Business,Charlotte,US,False
+CU00742,Quinn Brook,Retail,Atlanta,US,False
+CU00743,Hayden Garrow,Retail,New York,US,False
+CU00744,Casey Oakes,Small Business,San Diego,US,False
+CU00745,Cameron Thorne,Retail,Atlanta,US,False
+CU00746,Hayden Calder,Retail,Charlotte,US,False
+CU00747,Cameron Quill,Retail,Phoenix,US,False
+CU00748,Hayden Calder,Premier,Seattle,US,False
+CU00749,Blake Thorne,Premier,Dallas,US,False
+CU00750,Sage Quill,Small Business,Chicago,US,False
+CU00751,Jordan Dunmore,Retail,Dallas,US,False
+CU00752,Emerson Brook,Retail,Boston,US,False
+CU00753,Dakota Quill,Small Business,Denver,US,False
+CU00754,Emerson Quill,Retail,Atlanta,US,False
+CU00755,Finley Dunmore,Small Business,Phoenix,US,False
+CU00756,Harper Redfern,Retail,Denver,US,False
+CU00757,Finley Ingram,Retail,Charlotte,US,False
+CU00758,Taylor Fairbanks,Small Business,New York,US,False
+CU00759,Casey Brook,Retail,New York,US,False
+CU00760,Quinn Marlow,Retail,Charlotte,US,False
+CU00761,Harper Quill,Small Business,Seattle,US,False
+CU00762,Riley Stroud,Retail,Minneapolis,US,False
+CU00763,Quinn Quill,Retail,Atlanta,US,False
+CU00764,Sage Northam,Retail,Denver,US,False
+CU00765,Skyler Marlow,Retail,New York,US,False
+CU00766,Avery Marlow,Small Business,New York,US,False
+CU00767,Morgan Calder,Retail,Dallas,US,False
+CU00768,Jamie Fairbanks,Retail,Chicago,US,False
+CU00769,Rowan Quill,Retail,Dallas,US,False
+CU00770,Morgan Northam,Retail,Chicago,US,False
+CU00771,Finley Stroud,Premier,Chicago,US,False
+CU00772,Riley Quill,Small Business,Phoenix,US,False
+CU00773,Harper Juniper,Retail,Dallas,US,False
+CU00774,Quinn Kestrel,Premier,Dallas,US,False
+CU00775,Rowan Ingram,Small Business,Dallas,US,True
+CU00776,Harper Ellery,Retail,Chicago,US,False
+CU00777,Jordan Hollis,Small Business,Boston,US,False
+CU00778,Parker Penrose,Retail,Seattle,US,False
+CU00779,Sage Oakes,Retail,Charlotte,US,False
+CU00780,Hayden Fairbanks,Small Business,Denver,US,False
+CU00781,Finley Alder,Premier,Charlotte,US,False
+CU00782,Parker Northam,Small Business,San Diego,US,False
+CU00783,Cameron Dunmore,Premier,Charlotte,US,False
+CU00784,Blake Northam,Retail,Atlanta,US,False
+CU00785,Parker Linwood,Retail,Miami,US,False
+CU00786,Taylor Fairbanks,Retail,Charlotte,US,False
+CU00787,Blake Alder,Retail,Phoenix,US,False
+CU00788,Parker Calder,Retail,Denver,US,False
+CU00789,Skyler Fairbanks,Premier,Seattle,US,False
+CU00790,Avery Dunmore,Premier,Boston,US,False
+CU00791,Jamie Penrose,Retail,Charlotte,US,False
+CU00792,Riley Alder,Retail,Minneapolis,US,False
+CU00793,Casey Fairbanks,Retail,Seattle,US,False
+CU00794,Casey Garrow,Small Business,Chicago,US,False
+CU00795,Morgan Brook,Retail,Atlanta,US,False
+CU00796,Morgan Dunmore,Retail,New York,US,False
+CU00797,Emerson Ingram,Premier,Seattle,US,False
+CU00798,Rowan Calder,Premier,Minneapolis,US,False
+CU00799,Emerson Fairbanks,Retail,Boston,US,False
+CU00800,Jordan Thorne,Retail,Minneapolis,US,False
+CU00801,Rowan Garrow,Premier,Dallas,US,False
+CU00802,Cameron Thorne,Retail,Charlotte,US,False
+CU00803,Sage Kestrel,Retail,Atlanta,US,False
+CU00804,Emerson Thorne,Retail,Miami,US,False
+CU00805,Cameron Ellery,Retail,Minneapolis,US,False
+CU00806,Finley Kestrel,Premier,Miami,US,False
+CU00807,Jordan Calder,Small Business,Denver,US,False
+CU00808,Rowan Dunmore,Retail,Dallas,US,False
+CU00809,Reese Marlow,Retail,San Diego,US,False
+CU00810,Casey Redfern,Small Business,Boston,US,False
+CU00811,Riley Quill,Retail,Atlanta,US,False
+CU00812,Riley Brook,Retail,Seattle,US,False
+CU00813,Hayden Redfern,Small Business,Seattle,US,False
+CU00814,Morgan Juniper,Premier,Charlotte,US,False
+CU00815,Hayden Alder,Small Business,Dallas,US,False
+CU00816,Sage Kestrel,Premier,Minneapolis,US,False
+CU00817,Dakota Thorne,Retail,Charlotte,US,False
+CU00818,Harper Calder,Small Business,Boston,US,False
+CU00819,Parker Oakes,Retail,Seattle,US,False
+CU00820,Casey Ellery,Retail,Dallas,US,False
+CU00821,Morgan Brook,Retail,Denver,US,False
+CU00822,Blake Alder,Small Business,New York,US,False
+CU00823,Quinn Redfern,Retail,Atlanta,US,False
+CU00824,Hayden Calder,Small Business,Dallas,US,False
+CU00825,Hayden Penrose,Retail,New York,US,False
+CU00826,Morgan Linwood,Premier,Minneapolis,US,False
+CU00827,Parker Linwood,Premier,Phoenix,US,False
+CU00828,Quinn Oakes,Small Business,Minneapolis,US,False
+CU00829,Riley Fairbanks,Retail,San Diego,US,False
+CU00830,Jordan Brook,Retail,Atlanta,US,False
+CU00831,Cameron Calder,Retail,Charlotte,US,False
+CU00832,Skyler Redfern,Retail,Boston,US,False
+CU00833,Jordan Calder,Small Business,Phoenix,US,False
+CU00834,Sage Quill,Retail,Atlanta,US,False
+CU00835,Morgan Quill,Premier,Phoenix,US,False
+CU00836,Skyler Penrose,Premier,Chicago,US,False
+CU00837,Skyler Garrow,Small Business,Denver,US,False
+CU00838,Rowan Marlow,Premier,Charlotte,US,False
+CU00839,Finley Thorne,Retail,Seattle,US,False
+CU00840,Harper Oakes,Retail,Denver,US,False
+CU00841,Morgan Garrow,Retail,New York,US,False
+CU00842,Hayden Stroud,Retail,Dallas,US,False
+CU00843,Quinn Ingram,Retail,Miami,US,False
+CU00844,Parker Dunmore,Retail,Dallas,US,False
+CU00845,Jamie Ingram,Small Business,Phoenix,US,False
+CU00846,Jamie Oakes,Retail,Dallas,US,False
+CU00847,Dakota Alder,Retail,Miami,US,False
+CU00848,Skyler Dunmore,Premier,Minneapolis,US,False
+CU00849,Dakota Northam,Retail,Denver,US,False
+CU00850,Harper Ellery,Premier,San Diego,US,False
+CU00851,Emerson Brook,Retail,Boston,US,False
+CU00852,Hayden Quill,Small Business,Minneapolis,US,False
+CU00853,Reese Penrose,Premier,New York,US,False
+CU00854,Avery Calder,Retail,Chicago,US,False
+CU00855,Dakota Penrose,Retail,Boston,US,False
+CU00856,Harper Linwood,Small Business,Phoenix,US,False
+CU00857,Sage Dunmore,Premier,Charlotte,US,False
+CU00858,Sage Garrow,Premier,Chicago,US,False
+CU00859,Hayden Hollis,Retail,Dallas,US,False
+CU00860,Parker Stroud,Retail,Phoenix,US,False
+CU00861,Reese Redfern,Retail,Boston,US,False
+CU00862,Reese Kestrel,Retail,Chicago,US,False
+CU00863,Taylor Hollis,Retail,Charlotte,US,False
+CU00864,Finley Marlow,Retail,San Diego,US,False
+CU00865,Riley Ellery,Retail,Boston,US,False
+CU00866,Quinn Redfern,Retail,San Diego,US,True
+CU00867,Riley Fairbanks,Retail,Charlotte,US,False
+CU00868,Jordan Fairbanks,Retail,San Diego,US,False
+CU00869,Jamie Penrose,Retail,New York,US,False
+CU00870,Finley Quill,Small Business,San Diego,US,False
+CU00871,Riley Juniper,Retail,Seattle,US,False
+CU00872,Blake Kestrel,Retail,Boston,US,False
+CU00873,Avery Alder,Retail,New York,US,False
+CU00874,Emerson Dunmore,Premier,Phoenix,US,False
+CU00875,Harper Kestrel,Retail,Phoenix,US,False
+CU00876,Taylor Penrose,Retail,Miami,US,False
+CU00877,Parker Marlow,Retail,Chicago,US,False
+CU00878,Avery Thorne,Retail,Dallas,US,False
+CU00879,Hayden Garrow,Premier,Phoenix,US,False
+CU00880,Jamie Thorne,Small Business,Chicago,US,False
+CU00881,Dakota Alder,Retail,Charlotte,US,False
+CU00882,Harper Hollis,Small Business,Denver,US,False
+CU00883,Reese Ingram,Premier,Atlanta,US,False
+CU00884,Casey Juniper,Premier,San Diego,US,False
+CU00885,Riley Ingram,Retail,Miami,US,False
+CU00886,Casey Ellery,Retail,Boston,US,False
+CU00887,Skyler Quill,Retail,Denver,US,False
+CU00888,Jordan Quill,Retail,Minneapolis,US,False
+CU00889,Parker Ellery,Retail,Dallas,US,False
+CU00890,Casey Juniper,Retail,Phoenix,US,False
+CU00891,Finley Calder,Small Business,Boston,US,False
+CU00892,Skyler Dunmore,Retail,Boston,US,False
+CU00893,Jordan Calder,Small Business,Miami,US,True
+CU00894,Rowan Fairbanks,Premier,Phoenix,US,False
+CU00895,Parker Kestrel,Retail,Denver,US,False
+CU00896,Jamie Alder,Retail,Boston,US,False
+CU00897,Cameron Ellery,Small Business,San Diego,US,False
+CU00898,Rowan Redfern,Small Business,Denver,US,False
+CU00899,Morgan Redfern,Small Business,Atlanta,US,False
+CU00900,Jordan Redfern,Premier,New York,US,False
+CU00901,Riley Juniper,Retail,Minneapolis,US,False
+CU00902,Emerson Hollis,Small Business,Atlanta,US,False
+CU00903,Finley Dunmore,Retail,Charlotte,US,False
+CU00904,Emerson Hollis,Retail,Charlotte,US,False
+CU00905,Hayden Calder,Retail,Denver,US,False
+CU00906,Riley Quill,Retail,Phoenix,US,False
+CU00907,Riley Penrose,Retail,New York,US,False
+CU00908,Riley Ingram,Retail,Dallas,US,False
+CU00909,Sage Kestrel,Retail,Miami,US,False
+CU00910,Rowan Penrose,Premier,Phoenix,US,False
+CU00911,Parker Redfern,Retail,Denver,US,False
+CU00912,Finley Stroud,Small Business,Phoenix,US,False
+CU00913,Avery Quill,Small Business,Atlanta,US,False
+CU00914,Taylor Thorne,Retail,Atlanta,US,False
+CU00915,Reese Stroud,Premier,New York,US,False
+CU00916,Rowan Oakes,Retail,Chicago,US,False
+CU00917,Finley Alder,Small Business,New York,US,False
+CU00918,Harper Kestrel,Retail,New York,US,False
+CU00919,Skyler Calder,Retail,New York,US,False
+CU00920,Avery Ingram,Retail,Dallas,US,False
+CU00921,Riley Dunmore,Premier,Chicago,US,False
+CU00922,Hayden Alder,Retail,Miami,US,False
+CU00923,Hayden Stroud,Small Business,New York,US,False
+CU00924,Jamie Kestrel,Small Business,Seattle,US,False
+CU00925,Skyler Dunmore,Retail,Miami,US,False
+CU00926,Avery Fairbanks,Premier,Seattle,US,False
+CU00927,Morgan Penrose,Small Business,Charlotte,US,False
+CU00928,Sage Dunmore,Retail,Atlanta,US,False
+CU00929,Dakota Thorne,Retail,Chicago,US,False
+CU00930,Sage Calder,Retail,Denver,US,False
+CU00931,Cameron Redfern,Retail,Miami,US,False
+CU00932,Cameron Fairbanks,Retail,San Diego,US,False
+CU00933,Riley Ingram,Retail,Phoenix,US,False
+CU00934,Dakota Northam,Small Business,Miami,US,True
+CU00935,Taylor Kestrel,Small Business,Charlotte,US,False
+CU00936,Quinn Brook,Retail,Dallas,US,False
+CU00937,Parker Linwood,Retail,San Diego,US,False
+CU00938,Reese Ingram,Retail,New York,US,False
+CU00939,Quinn Alder,Retail,New York,US,False
+CU00940,Taylor Brook,Retail,Phoenix,US,False
+CU00941,Casey Thorne,Retail,San Diego,US,True
+CU00942,Finley Calder,Small Business,Miami,US,False
+CU00943,Finley Penrose,Retail,Boston,US,False
+CU00944,Dakota Ellery,Retail,New York,US,False
+CU00945,Riley Hollis,Premier,Boston,US,False
+CU00946,Cameron Ingram,Retail,San Diego,US,False
+CU00947,Harper Ellery,Retail,Denver,US,False
+CU00948,Jamie Kestrel,Retail,Miami,US,False
+CU00949,Quinn Thorne,Retail,Boston,US,False
+CU00950,Dakota Brook,Premier,Charlotte,US,False
+CU00951,Emerson Juniper,Retail,San Diego,US,False
+CU00952,Hayden Kestrel,Small Business,Dallas,US,False
+CU00953,Quinn Oakes,Premier,Atlanta,US,False
+CU00954,Reese Marlow,Retail,Charlotte,US,False
+CU00955,Hayden Kestrel,Small Business,Chicago,US,False
+CU00956,Harper Juniper,Retail,Atlanta,US,False
+CU00957,Cameron Alder,Retail,Seattle,US,False
+CU00958,Reese Quill,Retail,Seattle,US,False
+CU00959,Skyler Thorne,Retail,Atlanta,US,False
+CU00960,Casey Juniper,Retail,San Diego,US,False
+CU00961,Riley Linwood,Small Business,New York,US,False
+CU00962,Reese Marlow,Small Business,New York,US,False
+CU00963,Casey Garrow,Retail,San Diego,US,False
+CU00964,Morgan Ingram,Small Business,Minneapolis,US,False
+CU00965,Skyler Kestrel,Retail,New York,US,False
+CU00966,Parker Fairbanks,Retail,Minneapolis,US,False
+CU00967,Parker Hollis,Retail,Dallas,US,False
+CU00968,Reese Dunmore,Retail,Dallas,US,False
+CU00969,Casey Garrow,Retail,Miami,US,False
+CU00970,Casey Garrow,Retail,Dallas,US,False
+CU00971,Blake Alder,Premier,San Diego,US,False
+CU00972,Jamie Ellery,Small Business,Denver,US,False
+CU00973,Quinn Redfern,Retail,New York,US,False
+CU00974,Reese Calder,Retail,Phoenix,US,False
+CU00975,Parker Stroud,Small Business,Phoenix,US,False
+CU00976,Avery Kestrel,Retail,Atlanta,US,False
+CU00977,Harper Alder,Premier,New York,US,False
+CU00978,Casey Penrose,Retail,Charlotte,US,False
+CU00979,Morgan Garrow,Retail,San Diego,US,False
+CU00980,Taylor Stroud,Small Business,Atlanta,US,False
+CU00981,Reese Oakes,Retail,Seattle,US,False
+CU00982,Morgan Ellery,Retail,Seattle,US,False
+CU00983,Morgan Linwood,Premier,Seattle,US,False
+CU00984,Blake Northam,Premier,Phoenix,US,False
+CU00985,Avery Oakes,Retail,New York,US,False
+CU00986,Emerson Juniper,Retail,Denver,US,False
+CU00987,Harper Juniper,Retail,Atlanta,US,False
+CU00988,Cameron Marlow,Premier,San Diego,US,False
+CU00989,Emerson Fairbanks,Small Business,New York,US,False
+CU00990,Quinn Oakes,Retail,Boston,US,False
+CU00991,Emerson Alder,Retail,Atlanta,US,False
+CU00992,Skyler Brook,Retail,Minneapolis,US,False
+CU00993,Rowan Marlow,Retail,Chicago,US,False
+CU00994,Jordan Fairbanks,Retail,Denver,US,False
+CU00995,Blake Juniper,Premier,Phoenix,US,False
+CU00996,Jamie Alder,Premier,Phoenix,US,False
+CU00997,Reese Fairbanks,Retail,New York,US,False
+CU00998,Parker Ellery,Retail,Denver,US,False
+CU00999,Parker Kestrel,Premier,Dallas,US,False
+CU01000,Finley Dunmore,Retail,Minneapolis,US,False
+CU01001,Reese Kestrel,Retail,Phoenix,US,False
+CU01002,Morgan Calder,Premier,Atlanta,US,False
+CU01003,Hayden Redfern,Retail,Phoenix,US,False
+CU01004,Casey Northam,Retail,Denver,US,False
+CU01005,Skyler Juniper,Retail,Miami,US,False
+CU01006,Avery Penrose,Premier,Phoenix,US,False
+CU01007,Morgan Stroud,Premier,Miami,US,False
+CU01008,Parker Kestrel,Small Business,Miami,US,False
+CU01009,Skyler Thorne,Retail,Charlotte,US,False
+CU01010,Riley Calder,Retail,Miami,US,False
+CU01011,Dakota Brook,Retail,Boston,US,False
+CU01012,Rowan Alder,Retail,San Diego,US,False
+CU01013,Dakota Kestrel,Premier,Phoenix,US,False
+CU01014,Casey Marlow,Retail,San Diego,US,False
+CU01015,Dakota Oakes,Retail,Denver,US,False
+CU01016,Harper Brook,Retail,Miami,US,False
+CU01017,Morgan Kestrel,Small Business,Denver,US,False
+CU01018,Reese Quill,Premier,San Diego,US,False
+CU01019,Rowan Northam,Retail,Chicago,US,False
+CU01020,Taylor Calder,Premier,Boston,US,True
+CU01021,Taylor Dunmore,Retail,Phoenix,US,False
+CU01022,Jordan Fairbanks,Retail,Atlanta,US,False
+CU01023,Blake Penrose,Retail,New York,US,False
+CU01024,Taylor Brook,Retail,Boston,US,False
+CU01025,Jamie Juniper,Small Business,Boston,US,False
+CU01026,Riley Marlow,Retail,Dallas,US,False
+CU01027,Emerson Fairbanks,Retail,Charlotte,US,False
+CU01028,Emerson Ingram,Retail,Dallas,US,False
+CU01029,Taylor Hollis,Premier,Boston,US,False
+CU01030,Skyler Penrose,Premier,Minneapolis,US,False
+CU01031,Quinn Ellery,Premier,Chicago,US,False
+CU01032,Parker Garrow,Small Business,Miami,US,False
+CU01033,Reese Northam,Retail,Chicago,US,False
+CU01034,Jordan Dunmore,Retail,Minneapolis,US,False
+CU01035,Reese Marlow,Premier,Charlotte,US,False
+CU01036,Morgan Alder,Retail,Atlanta,US,False
+CU01037,Skyler Fairbanks,Small Business,Boston,US,False
+CU01038,Emerson Oakes,Small Business,Chicago,US,False
+CU01039,Sage Brook,Retail,Charlotte,US,False
+CU01040,Cameron Calder,Premier,Miami,US,False
+CU01041,Cameron Fairbanks,Retail,San Diego,US,False
+CU01042,Jamie Linwood,Premier,Boston,US,False
+CU01043,Emerson Quill,Retail,Chicago,US,False
+CU01044,Parker Ingram,Premier,Atlanta,US,False
+CU01045,Avery Dunmore,Small Business,Boston,US,False
+CU01046,Cameron Oakes,Retail,Miami,US,False
+CU01047,Blake Juniper,Retail,Chicago,US,False
+CU01048,Reese Alder,Premier,Charlotte,US,False
+CU01049,Dakota Redfern,Small Business,Dallas,US,False
+CU01050,Parker Penrose,Retail,Seattle,US,True
+CU01051,Morgan Kestrel,Retail,Seattle,US,False
+CU01052,Reese Stroud,Retail,Atlanta,US,False
+CU01053,Parker Calder,Retail,Boston,US,False
+CU01054,Avery Penrose,Retail,Dallas,US,False
+CU01055,Quinn Quill,Premier,Denver,US,False
+CU01056,Parker Quill,Small Business,Atlanta,US,False
+CU01057,Rowan Penrose,Small Business,Minneapolis,US,False
+CU01058,Emerson Fairbanks,Small Business,San Diego,US,False
+CU01059,Sage Dunmore,Premier,Atlanta,US,False
+CU01060,Skyler Garrow,Retail,Atlanta,US,False
+CU01061,Sage Calder,Retail,Phoenix,US,False
+CU01062,Finley Alder,Retail,Seattle,US,False
+CU01063,Skyler Hollis,Retail,Dallas,US,False
+CU01064,Parker Juniper,Small Business,Dallas,US,False
+CU01065,Morgan Fairbanks,Retail,Seattle,US,False
+CU01066,Dakota Fairbanks,Retail,Boston,US,False
+CU01067,Taylor Garrow,Premier,Phoenix,US,False
+CU01068,Taylor Juniper,Retail,Charlotte,US,False
+CU01069,Morgan Alder,Small Business,Minneapolis,US,False
+CU01070,Hayden Quill,Premier,Atlanta,US,False
+CU01071,Emerson Northam,Premier,Dallas,US,False
+CU01072,Dakota Penrose,Retail,Dallas,US,False
+CU01073,Avery Kestrel,Retail,New York,US,False
+CU01074,Hayden Linwood,Retail,San Diego,US,False
+CU01075,Taylor Fairbanks,Retail,Charlotte,US,False
+CU01076,Casey Ingram,Retail,Denver,US,False
+CU01077,Cameron Marlow,Small Business,Miami,US,False
+CU01078,Harper Garrow,Retail,Denver,US,False
+CU01079,Emerson Brook,Retail,Seattle,US,False
+CU01080,Blake Ellery,Premier,Miami,US,False
+CU01081,Riley Alder,Premier,Chicago,US,False
+CU01082,Quinn Linwood,Small Business,Denver,US,False
+CU01083,Sage Juniper,Retail,New York,US,False
+CU01084,Morgan Brook,Small Business,Seattle,US,False
+CU01085,Hayden Dunmore,Retail,Seattle,US,False
+CU01086,Skyler Hollis,Retail,Charlotte,US,False
+CU01087,Reese Calder,Retail,Seattle,US,False
+CU01088,Sage Brook,Retail,Atlanta,US,False
+CU01089,Jamie Kestrel,Small Business,Charlotte,US,False
+CU01090,Rowan Fairbanks,Retail,Chicago,US,False
+CU01091,Rowan Hollis,Premier,Miami,US,False
+CU01092,Morgan Brook,Small Business,Miami,US,False
+CU01093,Avery Quill,Small Business,Boston,US,False
+CU01094,Cameron Northam,Retail,Denver,US,False
+CU01095,Jordan Calder,Retail,Dallas,US,False
+CU01096,Sage Northam,Small Business,Minneapolis,US,False
+CU01097,Quinn Brook,Retail,Denver,US,False
+CU01098,Jamie Hollis,Retail,Minneapolis,US,False
+CU01099,Blake Brook,Small Business,Denver,US,False
+CU01100,Harper Alder,Premier,Boston,US,False
+CU01101,Taylor Garrow,Retail,Boston,US,False
+CU01102,Blake Penrose,Retail,Seattle,US,False
+CU01103,Cameron Brook,Retail,Dallas,US,False
+CU01104,Avery Northam,Retail,Chicago,US,False
+CU01105,Riley Marlow,Premier,Charlotte,US,False
+CU01106,Harper Marlow,Small Business,Dallas,US,False
+CU01107,Taylor Hollis,Small Business,Atlanta,US,False
+CU01108,Jamie Fairbanks,Retail,Denver,US,False
+CU01109,Hayden Oakes,Premier,Denver,US,False
+CU01110,Morgan Juniper,Retail,Phoenix,US,False
+CU01111,Finley Juniper,Premier,Miami,US,False
+CU01112,Taylor Oakes,Retail,Charlotte,US,False
+CU01113,Cameron Stroud,Retail,Chicago,US,False
+CU01114,Casey Stroud,Premier,Denver,US,False
+CU01115,Riley Ingram,Retail,Dallas,US,False
+CU01116,Rowan Ingram,Retail,Minneapolis,US,False
+CU01117,Finley Stroud,Small Business,Charlotte,US,False
+CU01118,Harper Oakes,Premier,Atlanta,US,False
+CU01119,Riley Garrow,Premier,Chicago,US,False
+CU01120,Reese Ingram,Premier,Chicago,US,False
+CU01121,Hayden Ingram,Retail,Charlotte,US,False
+CU01122,Blake Calder,Small Business,Dallas,US,False
+CU01123,Parker Penrose,Premier,Charlotte,US,False
+CU01124,Emerson Hollis,Retail,Atlanta,US,False
+CU01125,Riley Dunmore,Retail,San Diego,US,False
+CU01126,Casey Calder,Retail,Chicago,US,False
+CU01127,Cameron Marlow,Retail,Phoenix,US,False
+CU01128,Quinn Juniper,Retail,Denver,US,False
+CU01129,Rowan Ingram,Premier,Minneapolis,US,False
+CU01130,Hayden Calder,Small Business,Miami,US,False
+CU01131,Rowan Kestrel,Retail,San Diego,US,False
+CU01132,Quinn Penrose,Retail,Phoenix,US,False
+CU01133,Taylor Northam,Small Business,Denver,US,False
+CU01134,Taylor Ellery,Retail,Miami,US,False
+CU01135,Finley Northam,Retail,Dallas,US,False
+CU01136,Reese Calder,Small Business,Phoenix,US,False
+CU01137,Hayden Brook,Small Business,Phoenix,US,False
+CU01138,Avery Calder,Retail,San Diego,US,False
+CU01139,Harper Garrow,Retail,Minneapolis,US,False
+CU01140,Skyler Penrose,Small Business,Atlanta,US,False
+CU01141,Blake Ellery,Retail,San Diego,US,False
+CU01142,Cameron Juniper,Premier,Chicago,US,False
+CU01143,Jamie Ellery,Small Business,Charlotte,US,False
+CU01144,Hayden Calder,Retail,San Diego,US,False
+CU01145,Finley Linwood,Small Business,Dallas,US,False
+CU01146,Jordan Ellery,Retail,Phoenix,US,False
+CU01147,Avery Kestrel,Small Business,Boston,US,False
+CU01148,Jordan Quill,Premier,Miami,US,False
+CU01149,Emerson Ellery,Retail,Seattle,US,False
+CU01150,Dakota Linwood,Retail,Boston,US,False
+CU01151,Casey Calder,Retail,Chicago,US,False
+CU01152,Taylor Ellery,Premier,Phoenix,US,False
+CU01153,Hayden Ingram,Premier,Phoenix,US,False
+CU01154,Hayden Thorne,Premier,San Diego,US,False
+CU01155,Harper Kestrel,Retail,Chicago,US,False
+CU01156,Harper Brook,Small Business,Denver,US,False
+CU01157,Jordan Penrose,Small Business,Phoenix,US,False
+CU01158,Taylor Fairbanks,Small Business,Miami,US,False
+CU01159,Sage Ellery,Small Business,Chicago,US,False
+CU01160,Rowan Stroud,Retail,Atlanta,US,False
+CU01161,Finley Brook,Premier,Charlotte,US,False
+CU01162,Blake Marlow,Retail,Atlanta,US,False
+CU01163,Hayden Quill,Retail,Charlotte,US,False
+CU01164,Avery Fairbanks,Small Business,Charlotte,US,False
+CU01165,Avery Brook,Premier,New York,US,False
+CU01166,Riley Hollis,Premier,Miami,US,False
+CU01167,Emerson Hollis,Retail,Dallas,US,False
+CU01168,Rowan Redfern,Retail,Minneapolis,US,False
+CU01169,Quinn Marlow,Retail,Atlanta,US,False
+CU01170,Taylor Hollis,Premier,New York,US,False
+CU01171,Jamie Hollis,Retail,Minneapolis,US,False
+CU01172,Sage Kestrel,Premier,San Diego,US,False
+CU01173,Parker Thorne,Retail,Dallas,US,False
+CU01174,Jamie Calder,Premier,Chicago,US,False
+CU01175,Sage Brook,Retail,Minneapolis,US,False
+CU01176,Hayden Dunmore,Premier,San Diego,US,False
+CU01177,Dakota Hollis,Retail,Dallas,US,False
+CU01178,Rowan Linwood,Premier,Chicago,US,False
+CU01179,Blake Kestrel,Retail,Boston,US,False
+CU01180,Morgan Alder,Retail,Boston,US,False
+CU01181,Rowan Oakes,Premier,New York,US,False
+CU01182,Dakota Alder,Retail,Chicago,US,False
+CU01183,Emerson Marlow,Retail,Dallas,US,False
+CU01184,Parker Redfern,Small Business,Minneapolis,US,False
+CU01185,Skyler Garrow,Premier,Boston,US,False
+CU01186,Quinn Juniper,Small Business,Minneapolis,US,False
+CU01187,Riley Juniper,Premier,Charlotte,US,False
+CU01188,Morgan Juniper,Retail,San Diego,US,False
+CU01189,Dakota Linwood,Retail,Denver,US,False
+CU01190,Finley Northam,Premier,Chicago,US,False
+CU01191,Morgan Marlow,Retail,Charlotte,US,False
+CU01192,Rowan Marlow,Retail,Atlanta,US,False
+CU01193,Parker Garrow,Retail,Denver,US,False
+CU01194,Rowan Redfern,Retail,Atlanta,US,False
+CU01195,Taylor Calder,Retail,Chicago,US,False
+CU01196,Avery Ellery,Small Business,Boston,US,False
+CU01197,Jamie Quill,Small Business,Atlanta,US,False
+CU01198,Skyler Penrose,Retail,Denver,US,False
+CU01199,Quinn Linwood,Retail,Dallas,US,False
+CU01200,Dakota Linwood,Small Business,San Diego,US,False
+CU01201,Jordan Hollis,Small Business,Denver,US,False
+CU01202,Avery Quill,Premier,Charlotte,US,False
+CU01203,Casey Ellery,Retail,Chicago,US,False
+CU01204,Jamie Garrow,Retail,Chicago,US,False
+CU01205,Quinn Linwood,Retail,New York,US,False
+CU01206,Harper Alder,Retail,Denver,US,False
+CU01207,Harper Fairbanks,Small Business,Denver,US,False
+CU01208,Jamie Alder,Premier,Phoenix,US,False
+CU01209,Hayden Quill,Small Business,Phoenix,US,False
+CU01210,Dakota Juniper,Retail,Minneapolis,US,False
+CU01211,Emerson Marlow,Small Business,Charlotte,US,False
+CU01212,Morgan Penrose,Retail,New York,US,False
+CU01213,Riley Kestrel,Premier,Minneapolis,US,False
+CU01214,Harper Ingram,Retail,New York,US,False
+CU01215,Morgan Calder,Retail,Miami,US,False
+CU01216,Emerson Juniper,Small Business,Minneapolis,US,False
+CU01217,Taylor Hollis,Premier,Atlanta,US,False
+CU01218,Morgan Juniper,Retail,New York,US,False
+CU01219,Jordan Redfern,Small Business,Boston,US,False
+CU01220,Hayden Hollis,Retail,Denver,US,False
+CU01221,Avery Quill,Premier,Seattle,US,False
+CU01222,Quinn Oakes,Retail,Charlotte,US,False
+CU01223,Rowan Calder,Retail,Dallas,US,False
+CU01224,Skyler Ellery,Premier,New York,US,False
+CU01225,Riley Brook,Retail,Denver,US,False
+CU01226,Cameron Ellery,Retail,San Diego,US,False
+CU01227,Jordan Thorne,Premier,Charlotte,US,False
+CU01228,Harper Garrow,Small Business,San Diego,US,False
+CU01229,Avery Alder,Retail,San Diego,US,False
+CU01230,Riley Juniper,Retail,Atlanta,US,False
+CU01231,Hayden Stroud,Retail,Seattle,US,False
+CU01232,Blake Oakes,Premier,Seattle,US,False
+CU01233,Harper Ellery,Retail,New York,US,False
+CU01234,Skyler Penrose,Retail,Atlanta,US,False
+CU01235,Hayden Hollis,Premier,Charlotte,US,False
+CU01236,Jamie Juniper,Retail,Charlotte,US,False
+CU01237,Jamie Linwood,Premier,Seattle,US,False
+CU01238,Taylor Dunmore,Retail,Phoenix,US,False
+CU01239,Taylor Quill,Small Business,Dallas,US,False
+CU01240,Cameron Ingram,Retail,Dallas,US,False
+CU01241,Quinn Penrose,Retail,Charlotte,US,False
+CU01242,Avery Dunmore,Retail,Denver,US,False
+CU01243,Rowan Fairbanks,Small Business,San Diego,US,False
+CU01244,Finley Garrow,Retail,Atlanta,US,False
+CU01245,Hayden Oakes,Premier,Chicago,US,False
+CU01246,Dakota Quill,Small Business,San Diego,US,False
+CU01247,Blake Northam,Premier,Phoenix,US,False
+CU01248,Reese Northam,Premier,San Diego,US,False
+CU01249,Blake Alder,Retail,Boston,US,False
+CU01250,Riley Quill,Retail,Miami,US,False
+CU01251,Morgan Redfern,Retail,Atlanta,US,False
+CU01252,Blake Quill,Retail,Dallas,US,False
+CU01253,Reese Ellery,Retail,Denver,US,False
+CU01254,Jordan Linwood,Retail,Minneapolis,US,False
+CU01255,Jamie Ellery,Retail,New York,US,False
+CU01256,Riley Redfern,Retail,Chicago,US,False
+CU01257,Emerson Kestrel,Premier,Atlanta,US,False
+CU01258,Jordan Juniper,Retail,New York,US,False
+CU01259,Finley Fairbanks,Premier,Dallas,US,False
+CU01260,Riley Dunmore,Retail,Denver,US,False
+CU01261,Morgan Penrose,Retail,Chicago,US,False
+CU01262,Skyler Ellery,Retail,Seattle,US,False
+CU01263,Harper Oakes,Retail,Boston,US,False
+CU01264,Dakota Fairbanks,Retail,Chicago,US,False
+CU01265,Casey Thorne,Retail,Minneapolis,US,False
+CU01266,Avery Stroud,Retail,Denver,US,False
+CU01267,Sage Penrose,Small Business,Dallas,US,True
+CU01268,Jamie Calder,Small Business,Seattle,US,False
+CU01269,Taylor Ingram,Retail,Charlotte,US,False
+CU01270,Blake Ellery,Retail,Denver,US,False
+CU01271,Dakota Linwood,Small Business,New York,US,False
+CU01272,Taylor Quill,Small Business,Denver,US,False
+CU01273,Quinn Oakes,Retail,Seattle,US,False
+CU01274,Casey Oakes,Retail,San Diego,US,False
+CU01275,Casey Dunmore,Retail,Seattle,US,False
+CU01276,Dakota Oakes,Premier,Boston,US,True
+CU01277,Taylor Alder,Retail,Dallas,US,False
+CU01278,Jordan Quill,Retail,New York,US,False
+CU01279,Jordan Calder,Premier,Dallas,US,False
+CU01280,Jamie Marlow,Premier,Atlanta,US,False
+CU01281,Taylor Linwood,Retail,Boston,US,False
+CU01282,Blake Northam,Retail,Atlanta,US,False
+CU01283,Reese Northam,Retail,Miami,US,False
+CU01284,Rowan Oakes,Retail,Chicago,US,False
+CU01285,Cameron Marlow,Premier,Seattle,US,False
+CU01286,Harper Ellery,Retail,Dallas,US,False
+CU01287,Harper Redfern,Retail,Minneapolis,US,False
+CU01288,Jamie Penrose,Premier,Seattle,US,False
+CU01289,Emerson Brook,Premier,Charlotte,US,False
+CU01290,Emerson Hollis,Retail,Chicago,US,False
+CU01291,Parker Northam,Retail,Phoenix,US,False
+CU01292,Skyler Stroud,Retail,Dallas,US,False
+CU01293,Rowan Stroud,Retail,Dallas,US,False
+CU01294,Morgan Stroud,Small Business,New York,US,False
+CU01295,Emerson Alder,Premier,New York,US,False
+CU01296,Reese Ellery,Small Business,Minneapolis,US,False
+CU01297,Casey Brook,Retail,Minneapolis,US,False
+CU01298,Sage Alder,Retail,Boston,US,False
+CU01299,Taylor Penrose,Premier,Seattle,US,False
+CU01300,Riley Quill,Retail,Seattle,US,False
+CU01301,Parker Stroud,Retail,Minneapolis,US,False
+CU01302,Jamie Quill,Retail,San Diego,US,False
+CU01303,Skyler Oakes,Retail,San Diego,US,False
+CU01304,Jordan Oakes,Retail,Denver,US,False
+CU01305,Cameron Garrow,Retail,Chicago,US,False
+CU01306,Taylor Ingram,Small Business,Denver,US,False
+CU01307,Hayden Juniper,Small Business,New York,US,False
+CU01308,Riley Penrose,Premier,Phoenix,US,False
+CU01309,Jamie Ellery,Premier,San Diego,US,False
+CU01310,Riley Kestrel,Premier,Charlotte,US,False
+CU01311,Casey Dunmore,Retail,New York,US,False
+CU01312,Sage Kestrel,Retail,Charlotte,US,False
+CU01313,Riley Kestrel,Small Business,Miami,US,False
+CU01314,Parker Garrow,Retail,Charlotte,US,False
+CU01315,Jamie Quill,Retail,Atlanta,US,False
+CU01316,Cameron Alder,Small Business,Miami,US,False
+CU01317,Parker Garrow,Retail,Seattle,US,False
+CU01318,Taylor Kestrel,Retail,Seattle,US,False
+CU01319,Sage Quill,Retail,Miami,US,False
+CU01320,Skyler Oakes,Retail,Phoenix,US,False
+CU01321,Taylor Dunmore,Retail,Dallas,US,False
+CU01322,Finley Hollis,Premier,Minneapolis,US,False
+CU01323,Hayden Dunmore,Retail,Seattle,US,False
+CU01324,Reese Fairbanks,Small Business,Minneapolis,US,True
+CU01325,Emerson Dunmore,Retail,Boston,US,False
+CU01326,Dakota Penrose,Retail,Minneapolis,US,False
+CU01327,Avery Fairbanks,Retail,New York,US,False
+CU01328,Hayden Stroud,Small Business,New York,US,True
+CU01329,Morgan Linwood,Premier,Seattle,US,False
+CU01330,Dakota Stroud,Small Business,Phoenix,US,False
+CU01331,Emerson Dunmore,Retail,San Diego,US,False
+CU01332,Hayden Juniper,Retail,Charlotte,US,False
+CU01333,Hayden Kestrel,Retail,Dallas,US,False
+CU01334,Cameron Stroud,Retail,Chicago,US,False
+CU01335,Cameron Penrose,Retail,Boston,US,False
+CU01336,Blake Juniper,Small Business,Boston,US,False
+CU01337,Rowan Alder,Retail,Phoenix,US,False
+CU01338,Morgan Hollis,Retail,Charlotte,US,False
+CU01339,Morgan Redfern,Retail,New York,US,False
+CU01340,Harper Calder,Retail,Miami,US,False
+CU01341,Morgan Oakes,Premier,Miami,US,False
+CU01342,Rowan Linwood,Retail,Minneapolis,US,False
+CU01343,Emerson Oakes,Retail,Seattle,US,False
+CU01344,Jamie Marlow,Retail,Boston,US,False
+CU01345,Dakota Dunmore,Retail,Seattle,US,False
+CU01346,Quinn Calder,Premier,Denver,US,False
+CU01347,Skyler Penrose,Premier,Charlotte,US,False
+CU01348,Emerson Calder,Retail,Miami,US,False
+CU01349,Harper Dunmore,Premier,Atlanta,US,False
+CU01350,Harper Redfern,Retail,Miami,US,False
+CU01351,Dakota Kestrel,Small Business,Minneapolis,US,False
+CU01352,Jordan Fairbanks,Retail,Phoenix,US,False
+CU01353,Finley Calder,Retail,Charlotte,US,False
+CU01354,Quinn Calder,Retail,Miami,US,False
+CU01355,Emerson Linwood,Retail,Charlotte,US,False
+CU01356,Parker Oakes,Retail,Phoenix,US,False
+CU01357,Hayden Brook,Premier,Boston,US,False
+CU01358,Harper Thorne,Premier,New York,US,False
+CU01359,Cameron Quill,Retail,Miami,US,False
+CU01360,Sage Stroud,Small Business,San Diego,US,False
+CU01361,Dakota Ellery,Retail,Denver,US,False
+CU01362,Riley Redfern,Small Business,Miami,US,False
+CU01363,Jordan Stroud,Retail,Minneapolis,US,False
+CU01364,Sage Hollis,Retail,Boston,US,False
+CU01365,Hayden Marlow,Premier,Miami,US,False
+CU01366,Riley Redfern,Retail,New York,US,False
+CU01367,Emerson Thorne,Retail,New York,US,False
+CU01368,Morgan Thorne,Retail,Charlotte,US,False
+CU01369,Hayden Thorne,Retail,Minneapolis,US,False
+CU01370,Emerson Juniper,Retail,Dallas,US,False
+CU01371,Emerson Hollis,Retail,Atlanta,US,False
+CU01372,Parker Linwood,Retail,Phoenix,US,False
+CU01373,Emerson Ellery,Retail,Atlanta,US,False
+CU01374,Emerson Penrose,Retail,Denver,US,False
+CU01375,Dakota Ingram,Retail,Atlanta,US,False
+CU01376,Rowan Penrose,Retail,Atlanta,US,False
+CU01377,Finley Juniper,Retail,Phoenix,US,False
+CU01378,Morgan Brook,Small Business,Minneapolis,US,False
+CU01379,Morgan Stroud,Retail,Charlotte,US,False
+CU01380,Dakota Juniper,Retail,Charlotte,US,False
+CU01381,Sage Quill,Retail,New York,US,False
+CU01382,Skyler Dunmore,Retail,San Diego,US,False
+CU01383,Dakota Stroud,Retail,New York,US,False
+CU01384,Sage Oakes,Retail,Boston,US,False
+CU01385,Sage Hollis,Retail,Boston,US,True
+CU01386,Sage Juniper,Retail,Atlanta,US,False
+CU01387,Finley Dunmore,Small Business,Denver,US,False
+CU01388,Cameron Dunmore,Small Business,San Diego,US,False
+CU01389,Taylor Hollis,Small Business,Chicago,US,False
+CU01390,Dakota Quill,Retail,San Diego,US,False
+CU01391,Skyler Juniper,Small Business,Dallas,US,False
+CU01392,Rowan Ingram,Retail,San Diego,US,False
+CU01393,Emerson Garrow,Retail,San Diego,US,False
+CU01394,Emerson Kestrel,Small Business,Charlotte,US,True
+CU01395,Taylor Kestrel,Premier,Charlotte,US,False
+CU01396,Harper Ingram,Retail,New York,US,False
+CU01397,Taylor Alder,Small Business,Dallas,US,False
+CU01398,Reese Ingram,Retail,Charlotte,US,False
+CU01399,Jordan Kestrel,Retail,Boston,US,True
+CU01400,Rowan Ellery,Retail,Chicago,US,False
+CU01401,Blake Fairbanks,Retail,Miami,US,False
+CU01402,Skyler Penrose,Retail,Minneapolis,US,False
+CU01403,Riley Stroud,Premier,New York,US,False
+CU01404,Cameron Garrow,Retail,Dallas,US,False
+CU01405,Jordan Linwood,Retail,San Diego,US,False
+CU01406,Casey Fairbanks,Retail,Boston,US,False
+CU01407,Finley Ellery,Premier,Denver,US,False
+CU01408,Avery Calder,Retail,Atlanta,US,False
+CU01409,Dakota Ingram,Retail,Minneapolis,US,False
+CU01410,Rowan Fairbanks,Retail,Atlanta,US,False
+CU01411,Jamie Quill,Retail,Minneapolis,US,False
+CU01412,Avery Ellery,Premier,New York,US,False
+CU01413,Blake Juniper,Premier,Seattle,US,False
+CU01414,Riley Penrose,Retail,Atlanta,US,False
+CU01415,Quinn Juniper,Small Business,Denver,US,False
+CU01416,Blake Northam,Premier,Denver,US,False
+CU01417,Taylor Dunmore,Premier,Boston,US,False
+CU01418,Quinn Kestrel,Premier,Miami,US,False
+CU01419,Avery Quill,Retail,San Diego,US,False
+CU01420,Riley Oakes,Small Business,Miami,US,False
+CU01421,Avery Northam,Small Business,Seattle,US,False
+CU01422,Sage Calder,Premier,Miami,US,False
+CU01423,Dakota Penrose,Retail,Denver,US,False
+CU01424,Hayden Hollis,Retail,Boston,US,False
+CU01425,Sage Oakes,Retail,Phoenix,US,False
+CU01426,Jamie Thorne,Premier,Miami,US,False
+CU01427,Sage Ingram,Retail,Charlotte,US,False
+CU01428,Blake Juniper,Premier,Miami,US,False
+CU01429,Blake Calder,Retail,Chicago,US,False
+CU01430,Jordan Juniper,Premier,Charlotte,US,False
+CU01431,Riley Garrow,Retail,Phoenix,US,False
+CU01432,Riley Quill,Retail,Seattle,US,False
+CU01433,Cameron Thorne,Small Business,Boston,US,False
+CU01434,Blake Garrow,Retail,Denver,US,False
+CU01435,Dakota Thorne,Retail,Denver,US,False
+CU01436,Harper Thorne,Retail,Phoenix,US,False
+CU01437,Avery Juniper,Retail,Charlotte,US,False
+CU01438,Harper Garrow,Retail,Denver,US,False
+CU01439,Emerson Thorne,Retail,Miami,US,False
+CU01440,Casey Juniper,Retail,Phoenix,US,True
+CU01441,Riley Marlow,Retail,Miami,US,False
+CU01442,Harper Calder,Retail,San Diego,US,False
+CU01443,Reese Dunmore,Premier,Boston,US,False
+CU01444,Sage Hollis,Premier,Minneapolis,US,False
+CU01445,Avery Ellery,Retail,Minneapolis,US,False
+CU01446,Harper Ellery,Retail,Miami,US,False
+CU01447,Blake Ellery,Retail,Denver,US,False
+CU01448,Cameron Fairbanks,Retail,San Diego,US,False
+CU01449,Sage Redfern,Retail,Charlotte,US,False
+CU01450,Quinn Thorne,Retail,San Diego,US,False
+CU01451,Harper Thorne,Retail,San Diego,US,False
+CU01452,Harper Garrow,Small Business,Chicago,US,False
+CU01453,Taylor Oakes,Premier,Miami,US,False
+CU01454,Emerson Northam,Small Business,San Diego,US,False
+CU01455,Finley Hollis,Retail,Miami,US,False
+CU01456,Parker Garrow,Retail,Miami,US,False
+CU01457,Blake Stroud,Retail,Dallas,US,False
+CU01458,Harper Oakes,Premier,Minneapolis,US,False
+CU01459,Jamie Northam,Premier,Minneapolis,US,False
+CU01460,Skyler Kestrel,Retail,New York,US,True
+CU01461,Quinn Kestrel,Retail,Minneapolis,US,False
+CU01462,Dakota Alder,Retail,Dallas,US,True
+CU01463,Jamie Alder,Premier,San Diego,US,False
+CU01464,Parker Brook,Premier,Dallas,US,False
+CU01465,Hayden Linwood,Premier,Minneapolis,US,False
+CU01466,Sage Kestrel,Retail,Minneapolis,US,False
+CU01467,Skyler Marlow,Retail,New York,US,False
+CU01468,Blake Fairbanks,Small Business,Atlanta,US,False
+CU01469,Rowan Redfern,Small Business,Dallas,US,False
+CU01470,Rowan Hollis,Retail,San Diego,US,False
+CU01471,Casey Linwood,Small Business,Phoenix,US,False
+CU01472,Quinn Brook,Premier,Chicago,US,False
+CU01473,Harper Juniper,Premier,New York,US,True
+CU01474,Jordan Penrose,Premier,Charlotte,US,False
+CU01475,Reese Marlow,Premier,Dallas,US,False
+CU01476,Quinn Marlow,Retail,Boston,US,False
+CU01477,Dakota Dunmore,Retail,Boston,US,False
+CU01478,Parker Marlow,Retail,New York,US,False
+CU01479,Hayden Quill,Small Business,Charlotte,US,False
+CU01480,Sage Kestrel,Retail,Seattle,US,False
+CU01481,Finley Penrose,Retail,San Diego,US,False
+CU01482,Jordan Quill,Premier,Miami,US,False
+CU01483,Parker Kestrel,Retail,Charlotte,US,False
+CU01484,Parker Thorne,Retail,Denver,US,False
+CU01485,Skyler Juniper,Retail,Minneapolis,US,False
+CU01486,Dakota Garrow,Premier,Phoenix,US,False
+CU01487,Reese Calder,Small Business,Chicago,US,False
+CU01488,Blake Oakes,Retail,Phoenix,US,False
+CU01489,Jamie Garrow,Premier,Boston,US,False
+CU01490,Jordan Northam,Retail,Denver,US,False
+CU01491,Parker Ellery,Retail,New York,US,False
+CU01492,Casey Quill,Retail,Miami,US,False
+CU01493,Finley Brook,Retail,San Diego,US,False
+CU01494,Skyler Fairbanks,Retail,Chicago,US,False
+CU01495,Jordan Kestrel,Retail,Seattle,US,False
+CU01496,Dakota Northam,Retail,Denver,US,False
+CU01497,Morgan Hollis,Small Business,Denver,US,False
+CU01498,Casey Ingram,Retail,Miami,US,True
+CU01499,Reese Oakes,Retail,Phoenix,US,False
+CU01500,Casey Stroud,Small Business,Denver,US,False

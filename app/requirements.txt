@@ -1,0 +1,4 @@
+streamlit>=1.50
+pandas>=2.0
+# Live mode only (not needed for the no-account quick start):
+# snowflake-connector-python[pandas]>=3.12

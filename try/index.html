@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Try Account Takeover Detection | sample data</title>
+<link rel="stylesheet" href="try.css">
+</head>
+<body>
+<div class="layout">
+  <aside class="side">
+    <p class="brand">Account Takeover Detection</p>
+    <nav aria-label="Pages">
+      <button class="nav active" data-page="alerts">Alert queue</button>
+      <button class="nav" data-page="case">Case timeline</button>
+      <button class="nav" data-page="rules">Rule performance</button>
+    </nav>
+    <p class="note">Hosted example on synthetic data. No Snowflake account needed. Illustrative rules, not production, fraud, security, or compliance advice. Not an official Snowflake product.</p>
+    <p class="note"><a href="../">About this example</a> · <a href="https://github.com/sfc-gh-siprasad/sfguide-account-takeover-detection">Code</a></p>
+  </aside>
+
+  <main>
+    <section id="alerts" class="page" aria-labelledby="h-alerts">
+      <h1 id="h-alerts">Account takeover alert queue</h1>
+      <p class="sub">Detection window <span data-window></span> · customers ranked by the rules they triggered <span class="badge">Sample data</span> <span class="badge warn" id="custom-badge" hidden>Custom weights applied</span></p>
+      <div class="kpis" id="kpis"></div>
+      <details class="card">
+        <summary><strong>Tune the rule weights and alert threshold</strong></summary>
+        <p class="sub">Points added when a rule fires. The queue re-ranks as you change them. In Snowflake these live in the RULE_WEIGHTS table.</p>
+        <div class="weights" id="weights"></div>
+        <label class="pick">Alert threshold (score): <strong id="thr-label"></strong>
+          <input type="range" id="threshold" min="5" max="150" step="5"></label>
+        <button type="button" class="chip" id="reset">Reset to defaults</button>
+      </details>
+      <div class="filters">
+        <fieldset><legend>Show customers who triggered</legend><span id="rule-filters"></span></fieldset>
+        <label class="toggle"><input type="checkbox" id="only-alerts" checked> Alerts only</label>
+      </div>
+      <div class="card"><h2>Ranked alerts</h2><div class="scroll tall"><table id="alert-table"></table></div>
+        <p class="sub" id="alert-note"></p></div>
+      <div class="card"><h2>Rule hits</h2><div id="chart-hits" class="chart"></div></div>
+    </section>
+
+    <section id="case" class="page" hidden aria-labelledby="h-case">
+      <h1 id="h-case">Case timeline</h1>
+      <label class="pick">Customer <select id="case-pick"></select></label>
+      <div class="kpis" id="case-kpis"></div>
+      <div class="grid">
+        <div>
+          <div class="card"><h2>Why it alerted</h2><div id="case-why"></div></div>
+          <div class="card"><h2>Case summary</h2><span class="badge warn">Sample AI response</span>
+            <p id="case-summary"></p>
+            <p class="sub">In your Snowflake account, Cortex AI_COMPLETE drafts this for the top alerts. A draft for an investigator to review; it does not decide the case.</p></div>
+        </div>
+        <div class="card"><h2>Activity in the detection window</h2><div class="scroll tall"><table id="case-timeline"></table></div>
+          <p class="sub">Identity events, account changes and transfers, joined in time order, most recent first.</p></div>
+      </div>
+    </section>
+
+    <section id="rules" class="page" hidden aria-labelledby="h-rules">
+      <h1 id="h-rules">Rule performance</h1>
+      <p class="sub">How each rule performs against the synthetic ground-truth labels, which stand in for closed investigations.</p>
+      <div class="kpis" id="perf-kpis"></div>
+      <div class="card"><h2>By rule</h2><div class="scroll"><table id="perf-table"></table></div>
+        <p class="sub">Precision: share of flagged customers that were takeovers. Recall: share of all takeovers the rule flagged. Results are for this synthetic data set only.</p></div>
+      <div class="card"><h2>Precision and recall by alert threshold</h2><div id="chart-pr" class="chart"></div></div>
+      <div class="card"><h2>Where the false positives come from</h2>
+        <ul>
+          <li><strong>Takeover sequence</strong> also fires for customers who change their phone and pay a new contractor the same day.</li>
+          <li><strong>Impossible travel</strong> fires for corporate VPNs, and when a traveller logs in again after landing.</li>
+          <li><strong>New device + country</strong> fires for travellers who buy a local phone.</li>
+          <li><strong>Unusual amount</strong> fires for one-off large purchases.</li>
+        </ul>
+        <p>No single rule is enough; the score rewards combinations, such as a credential change followed by a new payee from a new device abroad.</p></div>
+    </section>
+  </main>
+</div>
+<script src="data.js"></script>
+<script src="score.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

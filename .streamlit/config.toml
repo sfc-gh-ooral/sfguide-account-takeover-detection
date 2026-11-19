@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#1f6feb"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
