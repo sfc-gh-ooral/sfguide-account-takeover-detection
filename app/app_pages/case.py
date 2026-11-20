@@ -26,13 +26,6 @@ with st.container(horizontal=True):
 left, right = st.columns([2, 3])
 with left:
     with st.container(border=True):
-        st.subheader("Why it alerted")
-        for r in detection.RULES:
-            if row[r]:
-                with st.container(border=True):
-                    st.markdown(f"**{detection.LABELS[r]}** · {int(common.weights()[r])} points")
-                    st.caption(row[f"{r}_why"])
-    with st.container(border=True):
         st.subheader("Case summary")
         text, live_text = None, False
         if ctx["live"]:
@@ -52,6 +45,13 @@ with left:
             if ctx["live"]:
                 st.caption("Live summaries are generated for the top 20 alerts only.")
         st.caption("Draft for an investigator to review. It does not decide the case.")
+    with st.container(border=True):
+        st.subheader("Why it alerted")
+        for r in detection.RULES:
+            if row[r]:
+                with st.container(border=True):
+                    st.markdown(f"**{detection.LABELS[r]}** · {int(common.weights()[r])} points")
+                    st.caption(row[f"{r}_why"])
 
 with right:
     with st.container(border=True):

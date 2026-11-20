@@ -158,7 +158,7 @@ def _unusual_amount(d) -> dict:
     for r in tx[tx["txn_ts"] >= WINDOW_START].sort_values(["txn_ts", "txn_id"]).itertuples(index=False):
         m = med.get(r.customer_id)
         if m is not None and r.amount >= AMOUNT_MIN and r.amount > AMOUNT_MULTIPLE * m:
-            hits.setdefault(r.customer_id, f"${r.amount:,} against a baseline median of ${m:,.0f}")
+            hits.setdefault(r.customer_id, f"${r.amount:,} against a baseline median of ${math.floor(m + 0.5):,}")  # round half up, like SQL
     return hits
 
 
